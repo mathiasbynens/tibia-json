@@ -1,6 +1,7 @@
 {
 	"private": true,
 	"scripts": {
+		"build": "npm run fetch && npm run analyze",
 		"fetch": "node fetch.mjs",
 		"analyze": "node analyze.mjs"
 	},
