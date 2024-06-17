@@ -1,0 +1,3164 @@
+[
+	{
+		"name": "A Friend in Need",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "A Study in Scarlett",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Afraid of no Ghost!",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "All Hail the King",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Allow Cookies?",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Allowance Collector",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Alumni",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Amateur Actor",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Ancient Splendor",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Animal Activist",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Annihilator",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Arachnoise",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Archpostman",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Areas of Effect",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Aristocrat",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Ashes to Dust",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Askarak Nemesis",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Avid Spectral Reader",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Baby Sitter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Back from the Dead",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Back into the Abyss",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Backpack Tourist",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Bad Timing",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Bane of the Hive",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Banebringers' Bane",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Battle Mage",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Beach Tamer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Beak Doctor",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Bearbaiting",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Bearhugger",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Beautiful Agony",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Beaver Away",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Becoming a Bigfoot",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Beneath the Sea",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Berry Picker",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Berserker (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Bewitcher",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Beyonder",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Bibby's Bloodbath",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Bibliomaniac",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Biodegradable",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Blacknailed",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Blessed!",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Blood-Red Snapper",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Bluebarian",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Bone Brother",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Bounacean Chivalry",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Breaking the Ice",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Brutal Politeness",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Bunny Slipped",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Buried the Baron",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Cake Conqueror",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Call Me Sparky",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Cartography 101",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Castlemania",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Cave Completionist",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Champion of Chazorai",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Champion of Summer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Champion of Winter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Chequered Teddy",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Chest Robber",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Chitin Bane",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Choking on Her Venom",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Chorister",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Citizen of Issavi",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Clay Fighter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Clay to Fame",
+		"grade": "2",
+		"secret": "yes",
+		"points": "6"
+	},
+	{
+		"name": "Cobbled and Patched",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Cocoon of Doom",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Cold as Ice",
+		"grade": "2",
+		"secret": "yes",
+		"points": "6"
+	},
+	{
+		"name": "Combo Master",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Commitment Phobic",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Confusion",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Contender",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Cookie Monster",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Corruption Contained",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Crawling Death",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Crystal Clear",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Crystal Keeper",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Crystals in Love",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Culinary Master",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Cursed!",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Daraman's Footsteps",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Daring Trespasser",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Dark Voodoo Priest",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Dazzler",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Death Song",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Death from Below",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Death in the Depths",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Death on Strike",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Deep Sea Diver",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Deer Hunt",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Demonbane",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Demonic Barkeeper",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Depth Dwellers",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Desert Fisher",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Devovorga's Nemesis",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Diplomatic Immunity",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Do Not Disturb",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Do a Barrel Roll!",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Doctor! Doctor!",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Dog Sitter",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Down the Drain",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Dragon Mimicry",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Drama in Darama",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Dread Lord",
+		"grade": "3",
+		"secret": "yes",
+		"points": "8"
+	},
+	{
+		"name": "Dream Catcher (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Dream Warden",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Dream Warrior",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Dream Wright",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Dream's Over",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Duked It Out",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Dungeon Cleaner",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Dwarven Mines (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Efreet Ally",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Elementary, My Dear",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Elite Hunter",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Elven Woods",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Ender of the End",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Ending the Horror",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Engine Driver",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Enter zze Draken!",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Exalted Battle Mage",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Exemplary Citizen",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Explorer",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Exquisite Taste",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Exterminator",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Extreme Degustation",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Eye of the Deep",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Fabled Construction",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Fairy Teasing",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Falconer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Fall of the Fallen",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Fata Morgana",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Fearless",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Final Strike",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Fire Devil (Achievement)",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Fire Lighter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Fire from the Earth",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Firefighter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Firewalker",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Fireworks in the Sky",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "First Achievement",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Follower of Azerus",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Follower of Palimuth",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Fool at Heart",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Forbidden Fruit (Achievement)",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Forbidden Knowledge",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Fountain of Life",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Free Items!",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Fried Shrimp",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Friend of Elves",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Friend of the Apes",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Friendly Fire",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Fully Decayed",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Funghitastic",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Gatherer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Gear Up",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Gem Cutter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Ghost Sailor",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Ghostwhisperer",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Glooth Engineer",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Glooth Punk",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Gnome Friend",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Gnome Little Helper",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Gnomebane's Bane",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Gnomelike",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Gnomish Art Of War",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Go with da Lava Flow",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Godslayer",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Gold Digger",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Golden Sands",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Goldhunter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Golem in the Gears",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Goo Goo Dancer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Gravedigger (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Green Thumb",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Greenhorn",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Grinding Again",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Gryphon Rider",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Guard Killer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Guardian Downfall",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Guinea Pig",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Happy Farmer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Hat Hunter",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Headache",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Heartbreaker",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Heartburn",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Herbicide",
+		"grade": "3",
+		"secret": "yes",
+		"points": "8"
+	},
+	{
+		"name": "Here, Fishy Fishy!",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Hickup",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Hidden Powers",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "High Inquisitor",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "High and Dry",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "High-Flyer",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Hippofoddermus",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "His Days are Counted",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "His True Face",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Hissing Downfall",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Hive Blinder",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Hive Fighter",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Hive Infiltrator",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Hive War Veteran",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Hoard of the Dragon",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Homebrewed",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Honest Finder",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Honorary Barbarian",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Honorary Gnome",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Honorary Rascoohan",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Honorary Witch",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Hot on the Trail",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Howly Silence",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Hunting Permit",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Hunting with Style",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Huntsman (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "I Did My Part",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "I Like it Fancy",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "I Need a Hug",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "I Wanna Fly Away",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Ice Harvester",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Ice Sculptor",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Icy Glare",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "In Shining Armor",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Inquisition's Arm",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Inquisition's Hand",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Interior Decorator",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Invader of the Deep",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Jamjam",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Jewel in the Swamp",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Jinx",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Joke's on You",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Just Cracked Me Up!",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Just in Time",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Kapow!",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Keeper of the 7 Keys",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Keeper of the Flame",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "King Tibianus Fan",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "King of the Jungle",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "King of the Ring",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "King's Council",
+		"grade": "1",
+		"secret": "no",
+		"points": "?"
+	},
+	{
+		"name": "Knock on Wood",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Knowledge Raider (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Lacewing Catcher",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Let the Sunshine In",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Liberty Bay Watch",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Library Liberator",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Life on the Streets",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Like Fox and Mouse",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Lion King",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Lion's Den Explorer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Lionheart",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Little Adventure",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Little Ball of Wool",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Little Big Adventure",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Lizard Kingdom",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Long Live the Queen",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Lord Protector",
+		"grade": "3",
+		"secret": "yes",
+		"points": "8"
+	},
+	{
+		"name": "Lord of the Elements (Achievement)",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Lost Palace Raider",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Lovely Dots",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Loyal Lad",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Loyal Subject",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Lucid Dreamer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Lucky Devil",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Lucky Horseshoe",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Luminous Kitty",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Luring Silence",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Mageslayer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Magnetised",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Mainstreet Nightmare",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Make a Wish",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Malefitz",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Manic",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Marble Madness",
+		"grade": "2",
+		"secret": "yes",
+		"points": "6"
+	},
+	{
+		"name": "Marblelous",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Marid Ally",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Masquerader",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Master Debater",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Master Hunter",
+		"grade": "2",
+		"secret": "yes",
+		"points": "6"
+	},
+	{
+		"name": "Master Shapeshifter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Master Thief",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Master of War",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Master of the Nexus",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Mastermind",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Matchmaker",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Mathemagician",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Measuring the World",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Meat Skewer",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Merry Adventures",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Millennial Falcon",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Mind the Dog!",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Mind the Step!",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Minor Disturbance",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Minstrel",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Mister Sandman",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Modest Guest",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Monsterhunter",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Moth Whisperer",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Mummy's Dearest",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Museum Goer",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Mutagenius",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Mutated Presents",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Mystic Fabric Magic",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Mystic Predator",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Nanny from Hell",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Natural Born Cowboy",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Natural Sweetener",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Navigational Error",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Nestling",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Nether Pirate",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Never Surrender",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Nevermending Story",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Nightmare Knight",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Nightmare Walker",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "No Horse Open Sleigh",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "No More Hiding",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Noblesse Obliterated",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Nomad Soul",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Nothing Can Stop Me",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Nothing but Hot Air",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Number of the Beast",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Of Wolves and Bears",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Ogre Chef",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "One Foot Vs. Many",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "One Less",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "One Thousand and One",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Oops",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Orcsoberfest Welcome",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Out in the Snowstorm",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Out of the Stone Age",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Over the Moon",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Party Animal",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Passionate Kisser",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Peazzekeeper",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Pecking Order",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Perfect Fool",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Personal Nightmare",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Petrologist",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Phantastic!",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Piece of Cake",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Pied Piper",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Pig-Headed",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Pimple",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Plant vs. Minos",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Planter",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Poet Laureate",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Polisher",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Potion Addict",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Preservationist",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Prison Break",
+		"grade": "3",
+		"secret": "no",
+		"points": "8"
+	},
+	{
+		"name": "Prospectre",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Publicity",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Pwned All Fur",
+		"grade": "3",
+		"secret": "yes",
+		"points": "8"
+	},
+	{
+		"name": "Pwned a Lot of Fur",
+		"grade": "3",
+		"secret": "yes",
+		"points": "8"
+	},
+	{
+		"name": "Pyromaniac",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Quick as a Turtle",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Race to the Pole",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Raider in the Dark",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Rathleton Citizen",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rathleton Commoner",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rathleton Inhabitant",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rathleton Squire",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Razing!",
+		"grade": "3",
+		"secret": "yes",
+		"points": "7"
+	},
+	{
+		"name": "Realms of Dreams",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Reason to Celebrate",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Recognised Trader",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Release the Kraken",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Repenter (Achievement)",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Rhino Rider",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rift Warrior",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Ripp-Ripp Hooray!",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Ritualist",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Robo Chop",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Rock Me to Sleep",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Rocket in Pocket",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Rockstar",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Rollercoaster",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rootless Behaviour",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Royalty of Hazard",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Rumble in the Plant",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Running the Rift",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Ruthless",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Safely Stored Away",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Santa's Li'l Helper",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Scales and Tail",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Scorched Flames",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Scourge of Death",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Scourge of Scarabs",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Scrapper",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Sculptor Apprentice",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Sea Scout",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Seasoned Adventurer",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Secret Agent",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Serious Contender",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Shaburak Nemesis",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Sharp Dressed",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Sharpshooter (Achievement)",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Shell Seeker",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Shell We Take a Ride",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Ship's Kobold",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Si, Ariki!",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Silent Pet",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Skilled Hunter",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Skin-Deep",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Skull and Bones",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Slayer of Anmothra",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Slayer of Chikhaton",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Slayer of Irahsae",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Slayer of Phrodomo",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Slayer of Teneshpar",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Sleepwalking",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Slim Chance",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Slimer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Slugging Around",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Snake Charmer",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Snake Pit",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Snowbunny",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Some Like It Hot",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Someone's Bored",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Something Smells",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Something's in There",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Soul Crusher",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Soul Mender",
+		"grade": "4",
+		"secret": "yes",
+		"points": "10"
+	},
+	{
+		"name": "Spareribs for Dinner",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Spectral Traveller",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Spectulation",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Spin-Off",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Spolium Profundis",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Spore Hunter",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Starless Night",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Steampunked",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Steppe Elegance",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Stepped on a Big Toe",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Stomach Ulcer",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Strangest Thing",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Stronghold of Edron",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Stuntman",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Substitute Tinker",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Sun and Sea",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Superstitious",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Supplier",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Suppressor",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Swamp Beast",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Swashbuckler",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Sweet Tooth",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Swift Death",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Talented Dancer",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Task Manager",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Taskmaster",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Teamplayer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Territorial",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "The Cake's the Truth",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "The Call of the Wild",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The Day After",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "The Drowned Sea God",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The Empire's Glory",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "The Gates of Hell",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The Milkman",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The More the Merrier",
+		"grade": "0",
+		"secret": "yes",
+		"points": "0"
+	},
+	{
+		"name": "The Ogre Steppe",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "The Picky Pig",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "The Professor's Nut",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "The Right Tone",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "The Rootwalker",
+		"grade": "1",
+		"secret": "no",
+		"points": ""
+	},
+	{
+		"name": "The Rule of Raccool",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The Serpent's Bride",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "The Snowman",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "The Spirit of Purity",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "The Undertaker",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Thick-Skinned",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Tied the Knot",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Toothfairy Assistant",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Top AVIN Agent",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Top CGB Agent",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Top TBI Agent",
+		"grade": "2",
+		"secret": "no",
+		"points": "4"
+	},
+	{
+		"name": "Torn Treasures",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Traditionalist",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Trail of the Ape God",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Transmutator",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Treasure Hunter",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Trip to the Beach",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "True Colours",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "True Dedication",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "True Lightbearer",
+		"grade": "2",
+		"secret": "yes",
+		"points": "5"
+	},
+	{
+		"name": "Truth Be Told",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Turncoat",
+		"grade": "2",
+		"secret": "yes",
+		"points": "4"
+	},
+	{
+		"name": "Twisted Dreams",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Twisted Mutation",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Umbral Archer",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Berserker",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Bladelord",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Brawler",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Executioner",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Harbinger",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Headsman",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Marksman",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Umbral Master",
+		"grade": "3",
+		"secret": "no",
+		"points": "8"
+	},
+	{
+		"name": "Umbral Swordsman",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Unleash the Beast",
+		"grade": "3",
+		"secret": "no",
+		"points": "8"
+	},
+	{
+		"name": "Unlikely Pathfinder",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Up the Molehill",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Vanity",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Verminbane",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Vive la Resistance",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Vortex Tamer",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Wail of the Banshee",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Warlock (Achievement)",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Warlord of Svargrond",
+		"grade": "2",
+		"secret": "no",
+		"points": "5"
+	},
+	{
+		"name": "Warrior of the Iks",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Waverider",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "Way of the Shaman",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Way to Hell",
+		"grade": "1",
+		"secret": "no",
+		"points": "2"
+	},
+	{
+		"name": "Wayfarer",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Wedding Planner",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Well Roared, Lion!",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	},
+	{
+		"name": "Whistle-Blower",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Widely Travelled",
+		"grade": "3",
+		"secret": "no",
+		"points": "7"
+	},
+	{
+		"name": "Wild Warrior (Achievement)",
+		"grade": "2",
+		"secret": "no",
+		"points": "6"
+	},
+	{
+		"name": "Witches Lil' Helper",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "With a Cherry on Top",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Woodcarver",
+		"grade": "1",
+		"secret": "yes",
+		"points": "3"
+	},
+	{
+		"name": "Worm Whacker",
+		"grade": "1",
+		"secret": "yes",
+		"points": "1"
+	},
+	{
+		"name": "Yalahari of Power",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "Yalahari of Wisdom",
+		"grade": "1",
+		"secret": "no",
+		"points": "3"
+	},
+	{
+		"name": "You Don't Know Jack",
+		"grade": "1",
+		"secret": "yes",
+		"points": "2"
+	},
+	{
+		"name": "You Got Horse Power",
+		"grade": "3",
+		"secret": "no",
+		"points": "8"
+	},
+	{
+		"name": "Zzztill Zzztanding!",
+		"grade": "1",
+		"secret": "no",
+		"points": "1"
+	}
+]

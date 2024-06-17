@@ -1,0 +1,1154 @@
+[
+	{
+		"name": "Abyssador",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ahau",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Amenef the Burning",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ancient Spawn of Morgathla",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Anomaly",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ayana the Crimson Curse",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Bibby Bloodbath",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Black Vixen",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Bloodback",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Brain Head",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Brokul",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Chagorz",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Count Vlarkorth",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Darkfang",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Deathstrike",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Despor",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Drume",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Duke Krule",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Earl Osam",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ekatrix",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Eradicator",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Essence of Malice",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Faceless Bane",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Gelidrazah the Frozen",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ghulosh",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Gnomevil",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Gorzindel",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Goshnar's Cruelty",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Goshnar's Greed",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Goshnar's Hatred",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Goshnar's Malice",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Goshnar's Spite",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Grand Master Oberon",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ichgahal",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Irgix the Flimsy",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Kalyassa",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Katex Blood Tongue",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "King Zelos",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Kusuma",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lady Tenebris",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lloyd",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lokathmor",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lord Azaram",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lord Retro",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Lord of the Elements",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Magma Bubble",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Mawhawk",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Mazoran",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Mazzinor",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Megasylvan Yselda",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Melting Frozen Horror",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Mitmah Vanguard",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Murcion",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Neferi the Spy",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Outburst",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Owin (Creature)",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Plagirath",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ragiaz",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Raging Mage",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ratmiral Blackwhiskers",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ravenous Hunger",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Razzagorn",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Realityquake",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Rupture",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Scarlett Etzel",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Shadowpelt",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Sharpclaw",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Shulgrax",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Sir Baeloc",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Sir Nictros",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Sister Hetai",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Soul of Dragonking Zyrtarch",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Srezz Yellow Eyes",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Tamru the Black",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Tarbaz",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Tazhadur",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Tentugly's Head",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Thaian",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Blazing Rose",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Brainstealer",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Diamond Blossom",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Dread Maiden",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Enraged Thorn Knight",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The False God",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Fear Feaster",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Flaming Orchid",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Lily of Night",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Mega Magmaoid",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Monster",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Moonlight Aster",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Nightmare Beast",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Pale Worm",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Rootkraken",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Sandking",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Scourge of Oblivion",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Souldespoiler",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Source of Corruption",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Time Guardian",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Unarmored Voidborn",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Unwelcome",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Winter Bloom",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Timira the Many-Headed",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Unaz the Mean",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Urmahlullu the Weakened",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Utua Stone Sting",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Vemiath",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Vok the Freakish",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Yirkas Blue Scales",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Zamulosh",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Zorvorax",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Annihilon",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Arthei",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Ashmunrah",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Atab",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Black Knight",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Boogey",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Boreth",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Bragrumol",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Bullwark",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Chopper",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Custodian",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Dazed Leaf Golem",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Death Priest Shargon",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Deep Terror",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Dipthrah",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Dirtbeard",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Diseased Bill",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Diseased Dan",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Diseased Fred",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Doctor Perhaps",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Enusat the Onyx Wing",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Evil Mastermind",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Fleshslicer",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Gaffir",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Glitterscale",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Glooth Fairy",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Golgordan",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Gorga",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Grand Canon Dominus",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Grand Chaplain Gaunder",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Grand Commander Soeren",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Guard Captain Quaid",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Hellgorak",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Heoni",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Jailer",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Jaul",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Kroazur",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Latrivan",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Lersatio",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Lisa",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Mad Mage",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Madareth",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Mahrdis",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Marziel",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Maw",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Mephiles",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Mindmasher",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Monstor",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Morguthis",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Mozradek",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Obujos",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Omruc",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Preceptor Lazare",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Professor Maxxen",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Rahemos",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Rotspit",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Shadowstalker",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Sugar Daddy",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Sugar Mommy",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Tanjis",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Thalas",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Thawing Dragon Lord",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Baron from Below",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Count of the Core",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Duke of the Depths",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Lord of the Lice",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Ravager",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "The Shatterer",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Ushuriel",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Vashresamun",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Xogixath",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Zugurosh",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Alptramun",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Anmothra",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Arachir the Ancient One",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Arthom the Hunter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Bakragore",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Bane Lord",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Barbaria",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Battlemaster Zunzu",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Big Boss Trolliver",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Burster",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Captain Jones",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Chikhaton",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Chizzoron the Distorter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Countess Sorrow",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Cublarc the Plunderer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Devovorga",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Dharalion",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Diblis the Fair",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Dracola",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Dreadful Disruptor",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Dreadmaw",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Elvira Hammerthrust",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Feroxa",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Ferumbras",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Ferumbras Mortal Shell",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Flamecaller Zazrak",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Fleabringer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Foreman Kneebiter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Furyosa",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Gaz'haragoth",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "General Murius",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Ghazbaran",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Goshnar's Megalomania",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Grand Mother Foulscale",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Grandfather Tridian",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Gravelord Oshuran",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Groam",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Grorlam",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Hairman the Huge",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Hatebreeder",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "High Templar Cobrass",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Hirintror",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Horestis",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Irahsae",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Izcandar Champion of Summer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Izcandar Champion of Winter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Izcandar the Banished",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Jesse the Wicked",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "King Chuck",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Lizard Gate Guardian",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Mahatheb",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Malofur Mangrinder",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Man in the Cave",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Massacre",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Maxxenius",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Morgaroth",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Mornenion",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Morshabaal",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Mr. Punish",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Ocyakao",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Omrafir",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Oodok Witchmaster",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Orshabaal",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Phrodomo",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Plagueroot",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Raxias",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Robby the Reckless",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Rotworm Queen",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Rukor Zad",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Shlorg",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Sir Valorcrest",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Smuggler Baron Silvertoe",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Teneshpar",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Abomination",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Big Bad One",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Blightfather",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Evil Eye",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The First Dragon",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Frog Prince",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Handmaiden",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Hungerer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Imperor",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Last Lore Keeper",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Manhunter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Mean Masher",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Mutated Pumpkin",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Old Whopper",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Pale Count",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Percht Queen",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Plasmother",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Voice of Ruin",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "The Welter",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Tyrn",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Tzumrah the Dazzler",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Warlord Ruzad",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "White Pale",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Willi Wasp",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "World Devourer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Xenia",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Yaga the Crone",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Yakchal",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Zarabustor",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Zevelon Duskbringer",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Zomba",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Zulazza the Corruptor",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Zushuka",
+		"bosstiaryClass": "Nemesis"
+	}
+]

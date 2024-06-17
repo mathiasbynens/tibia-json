@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"scripts": {
+		"fetch": "node fetch.mjs",
+		"analyze": "node analyze.mjs"
+	},
+	"devDependencies": {
+		"puppeteer": "^22.11.1"
+	}
+}
