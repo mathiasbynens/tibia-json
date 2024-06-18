@@ -1,6 +1,6 @@
-import fs from 'node:fs/promises';
-
 import puppeteer from 'puppeteer';
+
+import {writeJsonFile} from './utils.mjs';
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
@@ -86,7 +86,7 @@ const urlsToFileNames = new Map([
 
 for (const [url, fileName] of urlsToFileNames) {
 	const data = await extractJson(url);
-	await fs.writeFile(`./data/${fileName}`, stringify(data));
+	await writeJsonFile(`./data/${fileName}`, data);
 }
 
 await browser.close();
