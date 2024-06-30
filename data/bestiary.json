@@ -11160,6 +11160,24 @@
 		"healMod": 1
 	},
 	{
+		"name": "Sopping Carcass",
+		"bestiaryClass": "Undead",
+		"bestiaryLevel": "Challenging",
+		"occurrence": "Common",
+		"charmPoints": 100,
+		"experience": 23425,
+		"hitpoints": 32700,
+		"armor": 109,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1.15,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 0.4,
+		"energyDmgMod": 0.65,
+		"holyDmgMod": 1.2,
+		"iceDmgMod": 0.5,
+		"healMod": 1
+	},
+	{
 		"name": "Sopping Corpus",
 		"bestiaryClass": "Undead",
 		"bestiaryLevel": "Challenging",
