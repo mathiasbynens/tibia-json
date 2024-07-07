@@ -4287,7 +4287,7 @@
 		"name": "Evil Sheep",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Medium",
-		"occurrence": "Common",
+		"occurrence": "Uncommon",
 		"charmPoints": 25,
 		"experience": 240,
 		"hitpoints": 350,
