@@ -1,0 +1,3038 @@
+[
+	{
+		"name": "orc warlord soul core",
+		"id": "47381"
+	},
+	{
+		"name": "war wolf soul core",
+		"id": "47382"
+	},
+	{
+		"name": "orc rider soul core",
+		"id": "47383"
+	},
+	{
+		"name": "orc soul core",
+		"id": "47384"
+	},
+	{
+		"name": "orc shaman soul core",
+		"id": "47385"
+	},
+	{
+		"name": "orc warrior soul core",
+		"id": "47386"
+	},
+	{
+		"name": "orc berserker soul core",
+		"id": "47387"
+	},
+	{
+		"name": "necromancer soul core",
+		"id": "47388"
+	},
+	{
+		"name": "warlock soul core",
+		"id": "47389"
+	},
+	{
+		"name": "hunter soul core",
+		"id": "47390"
+	},
+	{
+		"name": "valkyrie soul core",
+		"id": "47391"
+	},
+	{
+		"name": "sheep soul core",
+		"id": "47392"
+	},
+	{
+		"name": "troll soul core",
+		"id": "47393"
+	},
+	{
+		"name": "bear soul core",
+		"id": "47394"
+	},
+	{
+		"name": "bonelord soul core",
+		"id": "47395"
+	},
+	{
+		"name": "ghoul soul core",
+		"id": "47396"
+	},
+	{
+		"name": "slime soul core",
+		"id": "47397"
+	},
+	{
+		"name": "rat soul core",
+		"id": "47398"
+	},
+	{
+		"name": "cyclops soul core",
+		"id": "47399"
+	},
+	{
+		"name": "minotaur mage soul core",
+		"id": "47400"
+	},
+	{
+		"name": "minotaur archer soul core",
+		"id": "47401"
+	},
+	{
+		"name": "minotaur soul core",
+		"id": "47402"
+	},
+	{
+		"name": "rotworm soul core",
+		"id": "47403"
+	},
+	{
+		"name": "wolf soul core",
+		"id": "47404"
+	},
+	{
+		"name": "snake soul core",
+		"id": "47405"
+	},
+	{
+		"name": "minotaur guard soul core",
+		"id": "47406"
+	},
+	{
+		"name": "spider soul core",
+		"id": "47407"
+	},
+	{
+		"name": "deer soul core",
+		"id": "47408"
+	},
+	{
+		"name": "dog soul core",
+		"id": "47409"
+	},
+	{
+		"name": "skeleton soul core",
+		"id": "47410"
+	},
+	{
+		"name": "dragon soul core",
+		"id": "47411"
+	},
+	{
+		"name": "demon soul core",
+		"id": "47412"
+	},
+	{
+		"name": "poison spider soul core",
+		"id": "47413"
+	},
+	{
+		"name": "demon skeleton soul core",
+		"id": "47414"
+	},
+	{
+		"name": "giant spider soul core",
+		"id": "47415"
+	},
+	{
+		"name": "dragon lord soul core",
+		"id": "47416"
+	},
+	{
+		"name": "fire devil soul core",
+		"id": "47417"
+	},
+	{
+		"name": "lion soul core",
+		"id": "47418"
+	},
+	{
+		"name": "polar bear soul core",
+		"id": "47419"
+	},
+	{
+		"name": "scorpion soul core",
+		"id": "47420"
+	},
+	{
+		"name": "wasp soul core",
+		"id": "47421"
+	},
+	{
+		"name": "bug soul core",
+		"id": "47422"
+	},
+	{
+		"name": "wild warrior soul core",
+		"id": "47423"
+	},
+	{
+		"name": "ghost soul core",
+		"id": "47424"
+	},
+	{
+		"name": "fire elemental soul core",
+		"id": "47425"
+	},
+	{
+		"name": "orc spearman soul core",
+		"id": "47426"
+	},
+	{
+		"name": "green djinn soul core",
+		"id": "47427"
+	},
+	{
+		"name": "winter wolf soul core",
+		"id": "47428"
+	},
+	{
+		"name": "frost troll soul core",
+		"id": "47429"
+	},
+	{
+		"name": "witch soul core",
+		"id": "47430"
+	},
+	{
+		"name": "behemoth soul core",
+		"id": "47431"
+	},
+	{
+		"name": "cave rat soul core",
+		"id": "47432"
+	},
+	{
+		"name": "monk soul core",
+		"id": "47433"
+	},
+	{
+		"name": "priestess soul core",
+		"id": "47434"
+	},
+	{
+		"name": "orc leader soul core",
+		"id": "47435"
+	},
+	{
+		"name": "pig soul core",
+		"id": "47436"
+	},
+	{
+		"name": "goblin soul core",
+		"id": "47437"
+	},
+	{
+		"name": "elf soul core",
+		"id": "47438"
+	},
+	{
+		"name": "elf arcanist soul core",
+		"id": "47439"
+	},
+	{
+		"name": "elf scout soul core",
+		"id": "47440"
+	},
+	{
+		"name": "mummy soul core",
+		"id": "47441"
+	},
+	{
+		"name": "dwarf geomancer soul core",
+		"id": "47442"
+	},
+	{
+		"name": "stone golem soul core",
+		"id": "47443"
+	},
+	{
+		"name": "vampire soul core",
+		"id": "47444"
+	},
+	{
+		"name": "dwarf soul core",
+		"id": "47445"
+	},
+	{
+		"name": "dwarf guard soul core",
+		"id": "47446"
+	},
+	{
+		"name": "dwarf soldier soul core",
+		"id": "47447"
+	},
+	{
+		"name": "stalker soul core",
+		"id": "47448"
+	},
+	{
+		"name": "hero soul core",
+		"id": "47449"
+	},
+	{
+		"name": "rabbit soul core",
+		"id": "47450"
+	},
+	{
+		"name": "swamp troll soul core",
+		"id": "47451"
+	},
+	{
+		"name": "amazon soul core",
+		"id": "47452"
+	},
+	{
+		"name": "banshee soul core",
+		"id": "47453"
+	},
+	{
+		"name": "ancient scarab soul core",
+		"id": "47454"
+	},
+	{
+		"name": "blue djinn soul core",
+		"id": "47455"
+	},
+	{
+		"name": "cobra soul core",
+		"id": "47456"
+	},
+	{
+		"name": "larva soul core",
+		"id": "47457"
+	},
+	{
+		"name": "scarab soul core",
+		"id": "47458"
+	},
+	{
+		"name": "hyaena soul core",
+		"id": "47459"
+	},
+	{
+		"name": "gargoyle soul core",
+		"id": "47460"
+	},
+	{
+		"name": "lich soul core",
+		"id": "47461"
+	},
+	{
+		"name": "crypt shambler soul core",
+		"id": "47462"
+	},
+	{
+		"name": "bonebeast soul core",
+		"id": "47463"
+	},
+	{
+		"name": "efreet soul core",
+		"id": "47465"
+	},
+	{
+		"name": "marid soul core",
+		"id": "47466"
+	},
+	{
+		"name": "badger soul core",
+		"id": "47467"
+	},
+	{
+		"name": "skunk soul core",
+		"id": "47468"
+	},
+	{
+		"name": "elder bonelord soul core",
+		"id": "47470"
+	},
+	{
+		"name": "gazer soul core",
+		"id": "47471"
+	},
+	{
+		"name": "yeti soul core",
+		"id": "47472"
+	},
+	{
+		"name": "chicken soul core",
+		"id": "47473"
+	},
+	{
+		"name": "crab soul core",
+		"id": "47474"
+	},
+	{
+		"name": "lizard templar soul core",
+		"id": "47475"
+	},
+	{
+		"name": "lizard sentinel soul core",
+		"id": "47476"
+	},
+	{
+		"name": "lizard snakecharmer soul core",
+		"id": "47477"
+	},
+	{
+		"name": "kongra soul core",
+		"id": "47478"
+	},
+	{
+		"name": "merlkin soul core",
+		"id": "47479"
+	},
+	{
+		"name": "sibang soul core",
+		"id": "47480"
+	},
+	{
+		"name": "crocodile soul core",
+		"id": "47481"
+	},
+	{
+		"name": "carniphila soul core",
+		"id": "47482"
+	},
+	{
+		"name": "hydra soul core",
+		"id": "47483"
+	},
+	{
+		"name": "bat soul core",
+		"id": "47484"
+	},
+	{
+		"name": "panda soul core",
+		"id": "47485"
+	},
+	{
+		"name": "centipede soul core",
+		"id": "47486"
+	},
+	{
+		"name": "tiger soul core",
+		"id": "47487"
+	},
+	{
+		"name": "elephant soul core",
+		"id": "47488"
+	},
+	{
+		"name": "flamingo soul core",
+		"id": "47489"
+	},
+	{
+		"name": "butterfly soul core",
+		"id": "47490"
+	},
+	{
+		"name": "dworc voodoomaster soul core",
+		"id": "47491"
+	},
+	{
+		"name": "dworc fleshhunter soul core",
+		"id": "47492"
+	},
+	{
+		"name": "dworc venomsniper soul core",
+		"id": "47493"
+	},
+	{
+		"name": "parrot soul core",
+		"id": "47494"
+	},
+	{
+		"name": "terror bird soul core",
+		"id": "47495"
+	},
+	{
+		"name": "tarantula soul core",
+		"id": "47496"
+	},
+	{
+		"name": "serpent spawn soul core",
+		"id": "47497"
+	},
+	{
+		"name": "spit nettle soul core",
+		"id": "47498"
+	},
+	{
+		"name": "smuggler soul core",
+		"id": "47499"
+	},
+	{
+		"name": "bandit soul core",
+		"id": "47500"
+	},
+	{
+		"name": "assassin soul core",
+		"id": "47501"
+	},
+	{
+		"name": "dark monk soul core",
+		"id": "47502"
+	},
+	{
+		"name": "butterfly soul core",
+		"id": "47503"
+	},
+	{
+		"name": "butterfly soul core",
+		"id": "47504"
+	},
+	{
+		"name": "water elemental soul core",
+		"id": "47505"
+	},
+	{
+		"name": "quara predator soul core",
+		"id": "47506"
+	},
+	{
+		"name": "quara predator scout soul core",
+		"id": "47507"
+	},
+	{
+		"name": "quara constrictor soul core",
+		"id": "47508"
+	},
+	{
+		"name": "quara constrictor scout soul core",
+		"id": "47509"
+	},
+	{
+		"name": "quara mantassin soul core",
+		"id": "47510"
+	},
+	{
+		"name": "quara mantassin scout soul core",
+		"id": "47511"
+	},
+	{
+		"name": "quara hydromancer soul core",
+		"id": "47512"
+	},
+	{
+		"name": "quara hydromancer scout soul core",
+		"id": "47513"
+	},
+	{
+		"name": "quara pincher soul core",
+		"id": "47514"
+	},
+	{
+		"name": "quara pincher scout soul core",
+		"id": "47515"
+	},
+	{
+		"name": "pirate marauder soul core",
+		"id": "47516"
+	},
+	{
+		"name": "pirate cutthroat soul core",
+		"id": "47517"
+	},
+	{
+		"name": "pirate buccaneer soul core",
+		"id": "47518"
+	},
+	{
+		"name": "pirate corsair soul core",
+		"id": "47519"
+	},
+	{
+		"name": "carrion worm soul core",
+		"id": "47520"
+	},
+	{
+		"name": "enlightened of the cult soul core",
+		"id": "47521"
+	},
+	{
+		"name": "acolyte of the cult soul core",
+		"id": "47522"
+	},
+	{
+		"name": "adept of the cult soul core",
+		"id": "47523"
+	},
+	{
+		"name": "novice of the cult soul core",
+		"id": "47524"
+	},
+	{
+		"name": "pirate skeleton soul core",
+		"id": "47525"
+	},
+	{
+		"name": "pirate ghost soul core",
+		"id": "47526"
+	},
+	{
+		"name": "tortoise soul core",
+		"id": "47527"
+	},
+	{
+		"name": "thornback tortoise soul core",
+		"id": "47528"
+	},
+	{
+		"name": "mammoth soul core",
+		"id": "47529"
+	},
+	{
+		"name": "blood crab soul core",
+		"id": "47530"
+	},
+	{
+		"name": "toad soul core",
+		"id": "47531"
+	},
+	{
+		"name": "seagull soul core",
+		"id": "47532"
+	},
+	{
+		"name": "son of verminor soul core",
+		"id": "47533"
+	},
+	{
+		"name": "green frog soul core",
+		"id": "47534"
+	},
+	{
+		"name": "azure frog soul core",
+		"id": "47535"
+	},
+	{
+		"name": "coral frog soul core",
+		"id": "47536"
+	},
+	{
+		"name": "crimson frog soul core",
+		"id": "47537"
+	},
+	{
+		"name": "orchid frog soul core",
+		"id": "47538"
+	},
+	{
+		"name": "island troll soul core",
+		"id": "47539"
+	},
+	{
+		"name": "massive water elemental soul core",
+		"id": "47540"
+	},
+	{
+		"name": "hand of cursed fate soul core",
+		"id": "47541"
+	},
+	{
+		"name": "undead dragon soul core",
+		"id": "47542"
+	},
+	{
+		"name": "lost soul soul core",
+		"id": "47543"
+	},
+	{
+		"name": "betrayed wraith soul core",
+		"id": "47544"
+	},
+	{
+		"name": "dark torturer soul core",
+		"id": "47545"
+	},
+	{
+		"name": "spectre soul core",
+		"id": "47546"
+	},
+	{
+		"name": "destroyer soul core",
+		"id": "47547"
+	},
+	{
+		"name": "diabolic imp soul core",
+		"id": "47548"
+	},
+	{
+		"name": "defiler soul core",
+		"id": "47549"
+	},
+	{
+		"name": "wyvern soul core",
+		"id": "47550"
+	},
+	{
+		"name": "fury soul core",
+		"id": "47551"
+	},
+	{
+		"name": "phantasm soul core",
+		"id": "47552"
+	},
+	{
+		"name": "hellhound soul core",
+		"id": "47553"
+	},
+	{
+		"name": "hellfire fighter soul core",
+		"id": "47554"
+	},
+	{
+		"name": "juggernaut soul core",
+		"id": "47555"
+	},
+	{
+		"name": "blightwalker soul core",
+		"id": "47556"
+	},
+	{
+		"name": "nightmare soul core",
+		"id": "47557"
+	},
+	{
+		"name": "nomad soul core",
+		"id": "47558"
+	},
+	{
+		"name": "massive fire elemental soul core",
+		"id": "47559"
+	},
+	{
+		"name": "plaguesmith soul core",
+		"id": "47560"
+	},
+	{
+		"name": "frost dragon soul core",
+		"id": "47561"
+	},
+	{
+		"name": "penguin soul core",
+		"id": "47562"
+	},
+	{
+		"name": "chakoya tribewarden soul core",
+		"id": "47563"
+	},
+	{
+		"name": "braindeath soul core",
+		"id": "47564"
+	},
+	{
+		"name": "barbarian skullhunter soul core",
+		"id": "47565"
+	},
+	{
+		"name": "barbarian bloodwalker soul core",
+		"id": "47566"
+	},
+	{
+		"name": "frost giant soul core",
+		"id": "47567"
+	},
+	{
+		"name": "ice golem soul core",
+		"id": "47568"
+	},
+	{
+		"name": "silver rabbit soul core",
+		"id": "47569"
+	},
+	{
+		"name": "chakoya toolshaper soul core",
+		"id": "47570"
+	},
+	{
+		"name": "chakoya windcaller soul core",
+		"id": "47571"
+	},
+	{
+		"name": "crystal spider soul core",
+		"id": "47572"
+	},
+	{
+		"name": "ice witch soul core",
+		"id": "47573"
+	},
+	{
+		"name": "barbarian brutetamer soul core",
+		"id": "47574"
+	},
+	{
+		"name": "barbarian headsplitter soul core",
+		"id": "47575"
+	},
+	{
+		"name": "frost giantess soul core",
+		"id": "47576"
+	},
+	{
+		"name": "dire penguin soul core",
+		"id": "47577"
+	},
+	{
+		"name": "dark magician soul core",
+		"id": "47578"
+	},
+	{
+		"name": "dark apprentice soul core",
+		"id": "47579"
+	},
+	{
+		"name": "poacher soul core",
+		"id": "47580"
+	},
+	{
+		"name": "goblin leader soul core",
+		"id": "47581"
+	},
+	{
+		"name": "dwarf henchman soul core",
+		"id": "47582"
+	},
+	{
+		"name": "dryad soul core",
+		"id": "47583"
+	},
+	{
+		"name": "squirrel soul core",
+		"id": "47584"
+	},
+	{
+		"name": "dragon hatchling soul core",
+		"id": "47585"
+	},
+	{
+		"name": "dragon lord hatchling soul core",
+		"id": "47586"
+	},
+	{
+		"name": "cat soul core",
+		"id": "47587"
+	},
+	{
+		"name": "undead jester soul core",
+		"id": "47588"
+	},
+	{
+		"name": "cyclops smith soul core",
+		"id": "47589"
+	},
+	{
+		"name": "cyclops drone soul core",
+		"id": "47590"
+	},
+	{
+		"name": "troll champion soul core",
+		"id": "47591"
+	},
+	{
+		"name": "grynch clan goblin soul core",
+		"id": "47592"
+	},
+	{
+		"name": "frost dragon hatchling soul core",
+		"id": "47593"
+	},
+	{
+		"name": "deepsea blood crab soul core",
+		"id": "47594"
+	},
+	{
+		"name": "sea serpent soul core",
+		"id": "47595"
+	},
+	{
+		"name": "young sea serpent soul core",
+		"id": "47596"
+	},
+	{
+		"name": "skeleton warrior soul core",
+		"id": "47598"
+	},
+	{
+		"name": "massive earth elemental soul core",
+		"id": "47600"
+	},
+	{
+		"name": "energy elemental soul core",
+		"id": "47601"
+	},
+	{
+		"name": "earth elemental soul core",
+		"id": "47602"
+	},
+	{
+		"name": "bog raider soul core",
+		"id": "47603"
+	},
+	{
+		"name": "wyrm soul core",
+		"id": "47604"
+	},
+	{
+		"name": "wisp soul core",
+		"id": "47605"
+	},
+	{
+		"name": "goblin assassin soul core",
+		"id": "47606"
+	},
+	{
+		"name": "goblin scavenger soul core",
+		"id": "47607"
+	},
+	{
+		"name": "grim reaper soul core",
+		"id": "47608"
+	},
+	{
+		"name": "vampire bride soul core",
+		"id": "47613"
+	},
+	{
+		"name": "mutated rat soul core",
+		"id": "47619"
+	},
+	{
+		"name": "worker golem soul core",
+		"id": "47620"
+	},
+	{
+		"name": "undead gladiator soul core",
+		"id": "47621"
+	},
+	{
+		"name": "mutated bat soul core",
+		"id": "47622"
+	},
+	{
+		"name": "werewolf soul core",
+		"id": "47623"
+	},
+	{
+		"name": "haunted treeling soul core",
+		"id": "47624"
+	},
+	{
+		"name": "zombie soul core",
+		"id": "47625"
+	},
+	{
+		"name": "acid blob soul core",
+		"id": "47626"
+	},
+	{
+		"name": "death blob soul core",
+		"id": "47627"
+	},
+	{
+		"name": "mercury blob soul core",
+		"id": "47628"
+	},
+	{
+		"name": "mutated tiger soul core",
+		"id": "47629"
+	},
+	{
+		"name": "nightmare scion soul core",
+		"id": "47631"
+	},
+	{
+		"name": "hellspawn soul core",
+		"id": "47632"
+	},
+	{
+		"name": "nightstalker soul core",
+		"id": "47633"
+	},
+	{
+		"name": "mutated human soul core",
+		"id": "47634"
+	},
+	{
+		"name": "gozzler soul core",
+		"id": "47635"
+	},
+	{
+		"name": "damaged worker golem soul core",
+		"id": "47636"
+	},
+	{
+		"name": "crazed beggar soul core",
+		"id": "47637"
+	},
+	{
+		"name": "gang member soul core",
+		"id": "47638"
+	},
+	{
+		"name": "gladiator soul core",
+		"id": "47639"
+	},
+	{
+		"name": "mad scientist soul core",
+		"id": "47640"
+	},
+	{
+		"name": "infernalist soul core",
+		"id": "47641"
+	},
+	{
+		"name": "war golem soul core",
+		"id": "47642"
+	},
+	{
+		"name": "furious troll soul core",
+		"id": "47643"
+	},
+	{
+		"name": "troll legionnaire soul core",
+		"id": "47644"
+	},
+	{
+		"name": "evil sheep soul core",
+		"id": "47645"
+	},
+	{
+		"name": "medusa soul core",
+		"id": "47646"
+	},
+	{
+		"name": "acolyte of darkness soul core",
+		"id": "47653"
+	},
+	{
+		"name": "nightslayer soul core",
+		"id": "47654"
+	},
+	{
+		"name": "bane of light soul core",
+		"id": "47655"
+	},
+	{
+		"name": "duskbringer soul core",
+		"id": "47656"
+	},
+	{
+		"name": "shadow hound soul core",
+		"id": "47657"
+	},
+	{
+		"name": "doomsday cultist soul core",
+		"id": "47658"
+	},
+	{
+		"name": "midnight spawn soul core",
+		"id": "47659"
+	},
+	{
+		"name": "midnight warrior soul core",
+		"id": "47660"
+	},
+	{
+		"name": "herald of gloom soul core",
+		"id": "47661"
+	},
+	{
+		"name": "bride of night soul core",
+		"id": "47662"
+	},
+	{
+		"name": "orc marauder soul core",
+		"id": "47667"
+	},
+	{
+		"name": "eternal guardian soul core",
+		"id": "47668"
+	},
+	{
+		"name": "lizard zaogun soul core",
+		"id": "47669"
+	},
+	{
+		"name": "draken warmaster soul core",
+		"id": "47670"
+	},
+	{
+		"name": "draken spellweaver soul core",
+		"id": "47671"
+	},
+	{
+		"name": "lizard chosen soul core",
+		"id": "47672"
+	},
+	{
+		"name": "insect swarm soul core",
+		"id": "47673"
+	},
+	{
+		"name": "lizard dragon priest soul core",
+		"id": "47674"
+	},
+	{
+		"name": "lizard legionnaire soul core",
+		"id": "47675"
+	},
+	{
+		"name": "lizard high guard soul core",
+		"id": "47676"
+	},
+	{
+		"name": "killer caiman soul core",
+		"id": "47677"
+	},
+	{
+		"name": "gnarlhound soul core",
+		"id": "47678"
+	},
+	{
+		"name": "terramite soul core",
+		"id": "47679"
+	},
+	{
+		"name": "wailing widow soul core",
+		"id": "47680"
+	},
+	{
+		"name": "lancer beetle soul core",
+		"id": "47681"
+	},
+	{
+		"name": "sandcrawler soul core",
+		"id": "47682"
+	},
+	{
+		"name": "ghastly dragon soul core",
+		"id": "47683"
+	},
+	{
+		"name": "lizard magistratus soul core",
+		"id": "47684"
+	},
+	{
+		"name": "lizard noble soul core",
+		"id": "47685"
+	},
+	{
+		"name": "draken elite soul core",
+		"id": "47686"
+	},
+	{
+		"name": "draken abomination soul core",
+		"id": "47687"
+	},
+	{
+		"name": "brimstone bug soul core",
+		"id": "47688"
+	},
+	{
+		"name": "souleater soul core",
+		"id": "47689"
+	},
+	{
+		"name": "bane bringer soul core",
+		"id": "47690"
+	},
+	{
+		"name": "cake golem soul core",
+		"id": "47691"
+	},
+	{
+		"name": "berrypest soul core",
+		"id": "47697"
+	},
+	{
+		"name": "boar soul core",
+		"id": "47698"
+	},
+	{
+		"name": "stampor soul core",
+		"id": "47699"
+	},
+	{
+		"name": "draptor soul core",
+		"id": "47700"
+	},
+	{
+		"name": "undead cavebear soul core",
+		"id": "47701"
+	},
+	{
+		"name": "crustacea gigantica soul core",
+		"id": "47702"
+	},
+	{
+		"name": "midnight panther soul core",
+		"id": "47703"
+	},
+	{
+		"name": "iron servant soul core",
+		"id": "47704"
+	},
+	{
+		"name": "golden servant soul core",
+		"id": "47705"
+	},
+	{
+		"name": "diamond servant soul core",
+		"id": "47706"
+	},
+	{
+		"name": "clay guardian soul core",
+		"id": "47707"
+	},
+	{
+		"name": "yielothax soul core",
+		"id": "47708"
+	},
+	{
+		"name": "shaburak demon soul core",
+		"id": "47709"
+	},
+	{
+		"name": "askarak demon soul core",
+		"id": "47710"
+	},
+	{
+		"name": "wild horse soul core",
+		"id": "47711"
+	},
+	{
+		"name": "slug soul core",
+		"id": "47712"
+	},
+	{
+		"name": "dromedary soul core",
+		"id": "47713"
+	},
+	{
+		"name": "deepling scout soul core",
+		"id": "47714"
+	},
+	{
+		"name": "bog frog soul core",
+		"id": "47715"
+	},
+	{
+		"name": "thornfire wolf soul core",
+		"id": "47716"
+	},
+	{
+		"name": "crystal wolf soul core",
+		"id": "47717"
+	},
+	{
+		"name": "elf overseer soul core",
+		"id": "47718"
+	},
+	{
+		"name": "troll guard soul core",
+		"id": "47719"
+	},
+	{
+		"name": "deepling warrior soul core",
+		"id": "47722"
+	},
+	{
+		"name": "deepling guard soul core",
+		"id": "47723"
+	},
+	{
+		"name": "deepling spellsinger soul core",
+		"id": "47724"
+	},
+	{
+		"name": "shark soul core",
+		"id": "47725"
+	},
+	{
+		"name": "fish soul core",
+		"id": "47726"
+	},
+	{
+		"name": "crawler soul core",
+		"id": "47727"
+	},
+	{
+		"name": "swarmer soul core",
+		"id": "47729"
+	},
+	{
+		"name": "spitter soul core",
+		"id": "47730"
+	},
+	{
+		"name": "waspoid soul core",
+		"id": "47731"
+	},
+	{
+		"name": "deepling worker soul core",
+		"id": "47732"
+	},
+	{
+		"name": "insectoid worker soul core",
+		"id": "47733"
+	},
+	{
+		"name": "crystalcrusher soul core",
+		"id": "47734"
+	},
+	{
+		"name": "mushroom sniffer soul core",
+		"id": "47735"
+	},
+	{
+		"name": "water buffalo soul core",
+		"id": "47737"
+	},
+	{
+		"name": "enraged crystal golem soul core",
+		"id": "47738"
+	},
+	{
+		"name": "drillworm soul core",
+		"id": "47739"
+	},
+	{
+		"name": "humongous fungus soul core",
+		"id": "47740"
+	},
+	{
+		"name": "magma crawler soul core",
+		"id": "47741"
+	},
+	{
+		"name": "enslaved dwarf soul core",
+		"id": "47742"
+	},
+	{
+		"name": "lost berserker soul core",
+		"id": "47743"
+	},
+	{
+		"name": "hideous fungus soul core",
+		"id": "47744"
+	},
+	{
+		"name": "vulcongra soul core",
+		"id": "47745"
+	},
+	{
+		"name": "wiggler soul core",
+		"id": "47746"
+	},
+	{
+		"name": "emerald damselfly soul core",
+		"id": "47747"
+	},
+	{
+		"name": "salamander soul core",
+		"id": "47748"
+	},
+	{
+		"name": "marsh stalker soul core",
+		"id": "47749"
+	},
+	{
+		"name": "corym charlatan soul core",
+		"id": "47750"
+	},
+	{
+		"name": "corym skirmisher soul core",
+		"id": "47751"
+	},
+	{
+		"name": "corym vanguard soul core",
+		"id": "47752"
+	},
+	{
+		"name": "swampling soul core",
+		"id": "47753"
+	},
+	{
+		"name": "adventurer soul core",
+		"id": "47754"
+	},
+	{
+		"name": "lost husher soul core",
+		"id": "47755"
+	},
+	{
+		"name": "lost basher soul core",
+		"id": "47756"
+	},
+	{
+		"name": "lost thrower soul core",
+		"id": "47757"
+	},
+	{
+		"name": "vampire viscount soul core",
+		"id": "47758"
+	},
+	{
+		"name": "vicious manbat soul core",
+		"id": "47759"
+	},
+	{
+		"name": "shadow pupil soul core",
+		"id": "47760"
+	},
+	{
+		"name": "blood priest soul core",
+		"id": "47761"
+	},
+	{
+		"name": "white shade soul core",
+		"id": "47762"
+	},
+	{
+		"name": "elder wyrm soul core",
+		"id": "47763"
+	},
+	{
+		"name": "nightfiend soul core",
+		"id": "47764"
+	},
+	{
+		"name": "blood hand soul core",
+		"id": "47765"
+	},
+	{
+		"name": "gravedigger soul core",
+		"id": "47766"
+	},
+	{
+		"name": "tarnished spirit soul core",
+		"id": "47767"
+	},
+	{
+		"name": "rorc soul core",
+		"id": "47768"
+	},
+	{
+		"name": "leaf golem soul core",
+		"id": "47769"
+	},
+	{
+		"name": "forest fury soul core",
+		"id": "47770"
+	},
+	{
+		"name": "roaring lion soul core",
+		"id": "47771"
+	},
+	{
+		"name": "wilting leaf golem soul core",
+		"id": "47772"
+	},
+	{
+		"name": "furious fire elemental soul core",
+		"id": "47773"
+	},
+	{
+		"name": "shock head soul core",
+		"id": "47774"
+	},
+	{
+		"name": "sight of surrender soul core",
+		"id": "47775"
+	},
+	{
+		"name": "guzzlemaw soul core",
+		"id": "47776"
+	},
+	{
+		"name": "silencer soul core",
+		"id": "47777"
+	},
+	{
+		"name": "choking fear soul core",
+		"id": "47778"
+	},
+	{
+		"name": "terrorsleep soul core",
+		"id": "47779"
+	},
+	{
+		"name": "retching horror soul core",
+		"id": "47780"
+	},
+	{
+		"name": "demon outcast soul core",
+		"id": "47781"
+	},
+	{
+		"name": "feversleep soul core",
+		"id": "47783"
+	},
+	{
+		"name": "frazzlemaw soul core",
+		"id": "47784"
+	},
+	{
+		"name": "glooth golem soul core",
+		"id": "47786"
+	},
+	{
+		"name": "metal gargoyle soul core",
+		"id": "47787"
+	},
+	{
+		"name": "blood beast soul core",
+		"id": "47788"
+	},
+	{
+		"name": "rustheap golem soul core",
+		"id": "47789"
+	},
+	{
+		"name": "glooth anemone soul core",
+		"id": "47790"
+	},
+	{
+		"name": "moohtant soul core",
+		"id": "47791"
+	},
+	{
+		"name": "minotaur amazon soul core",
+		"id": "47792"
+	},
+	{
+		"name": "execowtioner soul core",
+		"id": "47793"
+	},
+	{
+		"name": "mooh'tah warrior soul core",
+		"id": "47794"
+	},
+	{
+		"name": "minotaur hunter soul core",
+		"id": "47795"
+	},
+	{
+		"name": "worm priestess soul core",
+		"id": "47796"
+	},
+	{
+		"name": "glooth blob soul core",
+		"id": "47797"
+	},
+	{
+		"name": "rot elemental soul core",
+		"id": "47798"
+	},
+	{
+		"name": "devourer soul core",
+		"id": "47799"
+	},
+	{
+		"name": "abyssal calamary soul core",
+		"id": "47810"
+	},
+	{
+		"name": "high voltage elemental soul core",
+		"id": "47812"
+	},
+	{
+		"name": "glooth bandit soul core",
+		"id": "47813"
+	},
+	{
+		"name": "glooth brigand soul core",
+		"id": "47814"
+	},
+	{
+		"name": "raging fire soul core",
+		"id": "47815"
+	},
+	{
+		"name": "dawnfire asura soul core",
+		"id": "47816"
+	},
+	{
+		"name": "midnight asura soul core",
+		"id": "47817"
+	},
+	{
+		"name": "tainted soul soul core",
+		"id": "47818"
+	},
+	{
+		"name": "omnivora soul core",
+		"id": "47819"
+	},
+	{
+		"name": "werebear soul core",
+		"id": "47820"
+	},
+	{
+		"name": "wereboar soul core",
+		"id": "47821"
+	},
+	{
+		"name": "werebadger soul core",
+		"id": "47822"
+	},
+	{
+		"name": "vicious squire soul core",
+		"id": "47823"
+	},
+	{
+		"name": "renegade knight soul core",
+		"id": "47824"
+	},
+	{
+		"name": "vile grandmaster soul core",
+		"id": "47825"
+	},
+	{
+		"name": "ogre brute soul core",
+		"id": "47826"
+	},
+	{
+		"name": "ogre savage soul core",
+		"id": "47827"
+	},
+	{
+		"name": "ogre shaman soul core",
+		"id": "47828"
+	},
+	{
+		"name": "clomp soul core",
+		"id": "47829"
+	},
+	{
+		"name": "grimeleech soul core",
+		"id": "47830"
+	},
+	{
+		"name": "vexclaw soul core",
+		"id": "47831"
+	},
+	{
+		"name": "hellflayer soul core",
+		"id": "47832"
+	},
+	{
+		"name": "reality reaver soul core",
+		"id": "47838"
+	},
+	{
+		"name": "sparkion soul core",
+		"id": "47839"
+	},
+	{
+		"name": "breach brood soul core",
+		"id": "47840"
+	},
+	{
+		"name": "dread intruder soul core",
+		"id": "47842"
+	},
+	{
+		"name": "instable sparkion soul core",
+		"id": "47844"
+	},
+	{
+		"name": "instable breach brood soul core",
+		"id": "47845"
+	},
+	{
+		"name": "stabilizing reality reaver soul core",
+		"id": "47846"
+	},
+	{
+		"name": "stabilizing dread intruder soul core",
+		"id": "47847"
+	},
+	{
+		"name": "cave parrot soul core",
+		"id": "47848"
+	},
+	{
+		"name": "orclops doomhauler soul core",
+		"id": "47849"
+	},
+	{
+		"name": "orclops ravager soul core",
+		"id": "47850"
+	},
+	{
+		"name": "broken shaper soul core",
+		"id": "47851"
+	},
+	{
+		"name": "twisted shaper soul core",
+		"id": "47852"
+	},
+	{
+		"name": "iron servant replica soul core",
+		"id": "47853"
+	},
+	{
+		"name": "shaper matriarch soul core",
+		"id": "47854"
+	},
+	{
+		"name": "misguided bully soul core",
+		"id": "47855"
+	},
+	{
+		"name": "misguided thief soul core",
+		"id": "47856"
+	},
+	{
+		"name": "putrid mummy soul core",
+		"id": "47857"
+	},
+	{
+		"name": "faun soul core",
+		"id": "47858"
+	},
+	{
+		"name": "pooka soul core",
+		"id": "47859"
+	},
+	{
+		"name": "twisted pooka soul core",
+		"id": "47860"
+	},
+	{
+		"name": "pixie soul core",
+		"id": "47861"
+	},
+	{
+		"name": "boogy soul core",
+		"id": "47862"
+	},
+	{
+		"name": "weakened frazzlemaw soul core",
+		"id": "47863"
+	},
+	{
+		"name": "enfeebled silencer soul core",
+		"id": "47864"
+	},
+	{
+		"name": "nymph soul core",
+		"id": "47865"
+	},
+	{
+		"name": "barkless devotee soul core",
+		"id": "47866"
+	},
+	{
+		"name": "barkless fanatic soul core",
+		"id": "47867"
+	},
+	{
+		"name": "dark faun soul core",
+		"id": "47868"
+	},
+	{
+		"name": "orc cult inquisitor soul core",
+		"id": "47869"
+	},
+	{
+		"name": "orc cult minion soul core",
+		"id": "47870"
+	},
+	{
+		"name": "minotaur cult follower soul core",
+		"id": "47871"
+	},
+	{
+		"name": "minotaur cult prophet soul core",
+		"id": "47872"
+	},
+	{
+		"name": "minotaur cult zealot soul core",
+		"id": "47873"
+	},
+	{
+		"name": "cult believer soul core",
+		"id": "47874"
+	},
+	{
+		"name": "cult enforcer soul core",
+		"id": "47875"
+	},
+	{
+		"name": "stonerefiner soul core",
+		"id": "47876"
+	},
+	{
+		"name": "lost exile soul core",
+		"id": "47877"
+	},
+	{
+		"name": "deepworm soul core",
+		"id": "47878"
+	},
+	{
+		"name": "diremaw soul core",
+		"id": "47879"
+	},
+	{
+		"name": "cave devourer soul core",
+		"id": "47880"
+	},
+	{
+		"name": "tunnel tyrant soul core",
+		"id": "47881"
+	},
+	{
+		"name": "chasm spawn soul core",
+		"id": "47882"
+	},
+	{
+		"name": "fox soul core",
+		"id": "47883"
+	},
+	{
+		"name": "werefox soul core",
+		"id": "47884"
+	},
+	{
+		"name": "lava lurker soul core",
+		"id": "47886"
+	},
+	{
+		"name": "ravenous lava lurker soul core",
+		"id": "47888"
+	},
+	{
+		"name": "frost flower asura soul core",
+		"id": "47890"
+	},
+	{
+		"name": "true dawnfire asura soul core",
+		"id": "47891"
+	},
+	{
+		"name": "true midnight asura soul core",
+		"id": "47892"
+	},
+	{
+		"name": "true frost flower asura soul core",
+		"id": "47893"
+	},
+	{
+		"name": "floating savant soul core",
+		"id": "47896"
+	},
+	{
+		"name": "falcon knight soul core",
+		"id": "47899"
+	},
+	{
+		"name": "falcon paladin soul core",
+		"id": "47900"
+	},
+	{
+		"name": "brain squid soul core",
+		"id": "47901"
+	},
+	{
+		"name": "biting book soul core",
+		"id": "47902"
+	},
+	{
+		"name": "ink blob soul core",
+		"id": "47903"
+	},
+	{
+		"name": "burning book soul core",
+		"id": "47904"
+	},
+	{
+		"name": "icecold book soul core",
+		"id": "47905"
+	},
+	{
+		"name": "energetic book soul core",
+		"id": "47906"
+	},
+	{
+		"name": "energuardian of tales soul core",
+		"id": "47907"
+	},
+	{
+		"name": "deathling scout soul core",
+		"id": "47908"
+	},
+	{
+		"name": "rage squid soul core",
+		"id": "47909"
+	},
+	{
+		"name": "squid warden soul core",
+		"id": "47910"
+	},
+	{
+		"name": "animated feather soul core",
+		"id": "47911"
+	},
+	{
+		"name": "skeleton elite warrior soul core",
+		"id": "47913"
+	},
+	{
+		"name": "undead elite gladiator soul core",
+		"id": "47914"
+	},
+	{
+		"name": "deathling spellsinger soul core",
+		"id": "47915"
+	},
+	{
+		"name": "lumbering carnivor soul core",
+		"id": "47916"
+	},
+	{
+		"name": "spiky carnivor soul core",
+		"id": "47917"
+	},
+	{
+		"name": "menacing carnivor soul core",
+		"id": "47918"
+	},
+	{
+		"name": "ripper spectre soul core",
+		"id": "47919"
+	},
+	{
+		"name": "gazer spectre soul core",
+		"id": "47920"
+	},
+	{
+		"name": "burster spectre soul core",
+		"id": "47921"
+	},
+	{
+		"name": "thanatursus soul core",
+		"id": "47922"
+	},
+	{
+		"name": "arachnophobica soul core",
+		"id": "47923"
+	},
+	{
+		"name": "crazed winter vanguard soul core",
+		"id": "47924"
+	},
+	{
+		"name": "crazed winter rearguard soul core",
+		"id": "47925"
+	},
+	{
+		"name": "crazed summer vanguard soul core",
+		"id": "47926"
+	},
+	{
+		"name": "crazed summer rearguard soul core",
+		"id": "47927"
+	},
+	{
+		"name": "soul-broken harbinger soul core",
+		"id": "47928"
+	},
+	{
+		"name": "insane siren soul core",
+		"id": "47929"
+	},
+	{
+		"name": "cobra assassin soul core",
+		"id": "47930"
+	},
+	{
+		"name": "cobra scout soul core",
+		"id": "47931"
+	},
+	{
+		"name": "burning gladiator soul core",
+		"id": "47933"
+	},
+	{
+		"name": "priestess of the wild sun soul core",
+		"id": "47934"
+	},
+	{
+		"name": "black sphinx acolyte soul core",
+		"id": "47935"
+	},
+	{
+		"name": "crypt warden soul core",
+		"id": "47936"
+	},
+	{
+		"name": "lamassu soul core",
+		"id": "47937"
+	},
+	{
+		"name": "feral sphinx soul core",
+		"id": "47938"
+	},
+	{
+		"name": "sphinx soul core",
+		"id": "47939"
+	},
+	{
+		"name": "manticore soul core",
+		"id": "47940"
+	},
+	{
+		"name": "young goanna soul core",
+		"id": "47941"
+	},
+	{
+		"name": "adult goanna soul core",
+		"id": "47942"
+	},
+	{
+		"name": "ogre ruffian soul core",
+		"id": "47943"
+	},
+	{
+		"name": "ogre rowdy soul core",
+		"id": "47944"
+	},
+	{
+		"name": "ogre sage soul core",
+		"id": "47945"
+	},
+	{
+		"name": "cobra vizier soul core",
+		"id": "47946"
+	},
+	{
+		"name": "flimsy lost soul soul core",
+		"id": "47947"
+	},
+	{
+		"name": "mean lost soul soul core",
+		"id": "47948"
+	},
+	{
+		"name": "freakish lost soul soul core",
+		"id": "47949"
+	},
+	{
+		"name": "cursed prospector soul core",
+		"id": "47950"
+	},
+	{
+		"name": "evil prospector soul core",
+		"id": "47951"
+	},
+	{
+		"name": "bony sea devil soul core",
+		"id": "47952"
+	},
+	{
+		"name": "many faces soul core",
+		"id": "47953"
+	},
+	{
+		"name": "cloak of terror soul core",
+		"id": "47954"
+	},
+	{
+		"name": "vibrant phantom soul core",
+		"id": "47955"
+	},
+	{
+		"name": "brachiodemon soul core",
+		"id": "47956"
+	},
+	{
+		"name": "branchy crawler soul core",
+		"id": "47957"
+	},
+	{
+		"name": "capricious phantom soul core",
+		"id": "47958"
+	},
+	{
+		"name": "infernal phantom soul core",
+		"id": "47959"
+	},
+	{
+		"name": "infernal demon soul core",
+		"id": "47961"
+	},
+	{
+		"name": "rotten golem soul core",
+		"id": "47962"
+	},
+	{
+		"name": "turbulent elemental soul core",
+		"id": "47963"
+	},
+	{
+		"name": "courage leech soul core",
+		"id": "47964"
+	},
+	{
+		"name": "mould phantom soul core",
+		"id": "47965"
+	},
+	{
+		"name": "druid's apparition soul core",
+		"id": "47966"
+	},
+	{
+		"name": "knight's apparition soul core",
+		"id": "47967"
+	},
+	{
+		"name": "paladin's apparition soul core",
+		"id": "47968"
+	},
+	{
+		"name": "sorcerer's apparition soul core",
+		"id": "47969"
+	},
+	{
+		"name": "distorted phantom soul core",
+		"id": "47973"
+	},
+	{
+		"name": "werehyaena soul core",
+		"id": "47974"
+	},
+	{
+		"name": "werehyaena shaman soul core",
+		"id": "47975"
+	},
+	{
+		"name": "werelion soul core",
+		"id": "47976"
+	},
+	{
+		"name": "werelioness soul core",
+		"id": "47977"
+	},
+	{
+		"name": "usurper knight soul core",
+		"id": "47978"
+	},
+	{
+		"name": "usurper archer soul core",
+		"id": "47979"
+	},
+	{
+		"name": "usurper warlock soul core",
+		"id": "47980"
+	},
+	{
+		"name": "agrestic chicken soul core",
+		"id": "47981"
+	},
+	{
+		"name": "crypt warrior soul core",
+		"id": "47984"
+	},
+	{
+		"name": "exotic cave spider soul core",
+		"id": "47985"
+	},
+	{
+		"name": "pirat cutthroat soul core",
+		"id": "47986"
+	},
+	{
+		"name": "pirat scoundrel soul core",
+		"id": "47987"
+	},
+	{
+		"name": "pirat bombardier soul core",
+		"id": "47988"
+	},
+	{
+		"name": "pirat mate soul core",
+		"id": "47989"
+	},
+	{
+		"name": "exotic bat soul core",
+		"id": "47990"
+	},
+	{
+		"name": "lavaworm soul core",
+		"id": "47991"
+	},
+	{
+		"name": "tremendous tyrant soul core",
+		"id": "47992"
+	},
+	{
+		"name": "varnished diremaw soul core",
+		"id": "47993"
+	},
+	{
+		"name": "streaked devourer soul core",
+		"id": "47994"
+	},
+	{
+		"name": "eyeless devourer soul core",
+		"id": "47995"
+	},
+	{
+		"name": "blemished spawn soul core",
+		"id": "47996"
+	},
+	{
+		"name": "afflicted strider soul core",
+		"id": "47997"
+	},
+	{
+		"name": "lavafungus soul core",
+		"id": "47998"
+	},
+	{
+		"name": "cave chimera soul core",
+		"id": "47999"
+	},
+	{
+		"name": "venerable girtablilu soul core",
+		"id": "48000"
+	},
+	{
+		"name": "girtablilu warrior soul core",
+		"id": "48001"
+	},
+	{
+		"name": "bashmu soul core",
+		"id": "48002"
+	},
+	{
+		"name": "juvenile bashmu soul core",
+		"id": "48003"
+	},
+	{
+		"name": "hulking carnisylvan soul core",
+		"id": "48004"
+	},
+	{
+		"name": "poisonous carnisylvan soul core",
+		"id": "48005"
+	},
+	{
+		"name": "dark carnisylvan soul core",
+		"id": "48006"
+	},
+	{
+		"name": "parder soul core",
+		"id": "48032"
+	},
+	{
+		"name": "jungle moa soul core",
+		"id": "48033"
+	},
+	{
+		"name": "two-headed turtle soul core",
+		"id": "48034"
+	},
+	{
+		"name": "foam stalker soul core",
+		"id": "48035"
+	},
+	{
+		"name": "naga archer soul core",
+		"id": "48036"
+	},
+	{
+		"name": "naga warrior soul core",
+		"id": "48037"
+	},
+	{
+		"name": "makara soul core",
+		"id": "48038"
+	},
+	{
+		"name": "sulphider soul core",
+		"id": "48039"
+	},
+	{
+		"name": "sulphur spouter soul core",
+		"id": "48040"
+	},
+	{
+		"name": "gore horn soul core",
+		"id": "48041"
+	},
+	{
+		"name": "sabretooth soul core",
+		"id": "48042"
+	},
+	{
+		"name": "emerald tortoise soul core",
+		"id": "48043"
+	},
+	{
+		"name": "undertaker soul core",
+		"id": "48044"
+	},
+	{
+		"name": "nighthunter soul core",
+		"id": "48045"
+	},
+	{
+		"name": "hulking prehemoth soul core",
+		"id": "48046"
+	},
+	{
+		"name": "stalking stalk soul core",
+		"id": "48047"
+	},
+	{
+		"name": "mantosaurus soul core",
+		"id": "48048"
+	},
+	{
+		"name": "headpecker soul core",
+		"id": "48049"
+	},
+	{
+		"name": "noxious ripptor soul core",
+		"id": "48050"
+	},
+	{
+		"name": "gorerilla soul core",
+		"id": "48051"
+	},
+	{
+		"name": "shrieking cry-stal soul core",
+		"id": "48052"
+	},
+	{
+		"name": "mercurial menace soul core",
+		"id": "48053"
+	},
+	{
+		"name": "crape man soul core",
+		"id": "48054"
+	},
+	{
+		"name": "liodile soul core",
+		"id": "48055"
+	},
+	{
+		"name": "boar man soul core",
+		"id": "48056"
+	},
+	{
+		"name": "harpy soul core",
+		"id": "48057"
+	},
+	{
+		"name": "carnivostrich soul core",
+		"id": "48058"
+	},
+	{
+		"name": "rhindeer soul core",
+		"id": "48059"
+	},
+	{
+		"name": "iks pututu soul core",
+		"id": "48060"
+	},
+	{
+		"name": "iks aucar soul core",
+		"id": "48061"
+	},
+	{
+		"name": "iks chuka soul core",
+		"id": "48062"
+	},
+	{
+		"name": "cursed ape soul core",
+		"id": "48063"
+	},
+	{
+		"name": "iks ahpututu soul core",
+		"id": "48064"
+	},
+	{
+		"name": "mycobiontic beetle soul core",
+		"id": "48065"
+	},
+	{
+		"name": "meandering mushroom soul core",
+		"id": "48066"
+	},
+	{
+		"name": "oozing carcass soul core",
+		"id": "48067"
+	},
+	{
+		"name": "darklight construct soul core",
+		"id": "48068"
+	},
+	{
+		"name": "converter soul core",
+		"id": "48069"
+	},
+	{
+		"name": "darklight matter soul core",
+		"id": "48070"
+	},
+	{
+		"name": "oozing corpus soul core",
+		"id": "48071"
+	},
+	{
+		"name": "darklight emitter soul core",
+		"id": "48072"
+	},
+	{
+		"name": "weretiger soul core",
+		"id": "48073"
+	},
+	{
+		"name": "white weretiger soul core",
+		"id": "48074"
+	},
+	{
+		"name": "werecrocodile soul core",
+		"id": "48075"
+	},
+	{
+		"name": "feral werecrocodile soul core",
+		"id": "48076"
+	},
+	{
+		"name": "werepanther soul core",
+		"id": "48077"
+	},
+	{
+		"name": "white tiger soul core",
+		"id": "48078"
+	},
+	{
+		"name": "bloated man-maggot soul core",
+		"id": "48079"
+	},
+	{
+		"name": "rotten man-maggot soul core",
+		"id": "48080"
+	},
+	{
+		"name": "walking pillar soul core",
+		"id": "48081"
+	},
+	{
+		"name": "wandering pillar soul core",
+		"id": "48082"
+	},
+	{
+		"name": "sopping carcass soul core",
+		"id": "48083"
+	},
+	{
+		"name": "sopping corpus soul core",
+		"id": "48084"
+	},
+	{
+		"name": "darklight source soul core",
+		"id": "48085"
+	},
+	{
+		"name": "darklight striker soul core",
+		"id": "48086"
+	},
+	{
+		"name": "cunning werepanther soul core",
+		"id": "48087"
+	},
+	{
+		"name": "albino dragon soul core",
+		"id": "48089"
+	},
+	{
+		"name": "iks yapunac soul core",
+		"id": "48091"
+	},
+	{
+		"name": "bulltaur brute soul core",
+		"id": "48092"
+	},
+	{
+		"name": "bulltaur alchemist soul core",
+		"id": "48093"
+	},
+	{
+		"name": "bulltaur forgepriest soul core",
+		"id": "48094"
+	},
+	{
+		"name": "dragolisk soul core",
+		"id": "48095"
+	},
+	{
+		"name": "wardragon soul core",
+		"id": "48096"
+	},
+	{
+		"name": "mega dragon soul core",
+		"id": "48097"
+	},
+	{
+		"name": "mitmah scout soul core",
+		"id": "48098"
+	},
+	{
+		"name": "mitmah seer soul core",
+		"id": "48099"
+	},
+	{
+		"name": "black sheep soul core",
+		"id": "48929"
+	},
+	{
+		"name": "squidgy slime soul core",
+		"id": "48930"
+	},
+	{
+		"name": "husky soul core",
+		"id": "48931"
+	},
+	{
+		"name": "massive energy elemental soul core",
+		"id": "48932"
+	},
+	{
+		"name": "evil sheep lord soul core",
+		"id": "48933"
+	},
+	{
+		"name": "hot dog soul core",
+		"id": "48934"
+	},
+	{
+		"name": "vampire pig soul core",
+		"id": "48935"
+	},
+	{
+		"name": "doom deer soul core",
+		"id": "48936"
+	},
+	{
+		"name": "killer rabbit soul core",
+		"id": "48937"
+	},
+	{
+		"name": "berserker chicken soul core",
+		"id": "48938"
+	},
+	{
+		"name": "demon parrot soul core",
+		"id": "48939"
+	},
+	{
+		"name": "infernal frog soul core",
+		"id": "48940"
+	},
+	{
+		"name": "undead mine worker soul core",
+		"id": "48941"
+	},
+	{
+		"name": "undead prospector soul core",
+		"id": "48942"
+	},
+	{
+		"name": "ghoulish hyaena soul core",
+		"id": "48943"
+	},
+	{
+		"name": "sandstone scorpion soul core",
+		"id": "48944"
+	},
+	{
+		"name": "grave guard soul core",
+		"id": "48945"
+	},
+	{
+		"name": "tomb servant soul core",
+		"id": "48946"
+	},
+	{
+		"name": "sacred spider soul core",
+		"id": "48947"
+	},
+	{
+		"name": "death priest soul core",
+		"id": "48948"
+	},
+	{
+		"name": "elder mummy soul core",
+		"id": "48949"
+	},
+	{
+		"name": "honour guard soul core",
+		"id": "48950"
+	},
+	{
+		"name": "feverish citizen soul core",
+		"id": "48951"
+	},
+	{
+		"name": "white deer soul core",
+		"id": "48952"
+	},
+	{
+		"name": "starving wolf soul core",
+		"id": "48953"
+	},
+	{
+		"name": "shaburak lord soul core",
+		"id": "48954"
+	},
+	{
+		"name": "shaburak prince soul core",
+		"id": "48955"
+	},
+	{
+		"name": "askarak lord soul core",
+		"id": "48956"
+	},
+	{
+		"name": "askarak prince soul core",
+		"id": "48957"
+	},
+	{
+		"name": "insectoid scout soul core",
+		"id": "48958"
+	},
+	{
+		"name": "filth toad soul core",
+		"id": "48959"
+	},
+	{
+		"name": "firestarter soul core",
+		"id": "48960"
+	},
+	{
+		"name": "horse soul core",
+		"id": "48961"
+	},
+	{
+		"name": "horse soul core",
+		"id": "48962"
+	},
+	{
+		"name": "horse soul core",
+		"id": "48963"
+	},
+	{
+		"name": "terrified elephant soul core",
+		"id": "48964"
+	},
+	{
+		"name": "nomad soul core",
+		"id": "48965"
+	},
+	{
+		"name": "nomad soul core",
+		"id": "48966"
+	},
+	{
+		"name": "ladybug soul core",
+		"id": "48967"
+	},
+	{
+		"name": "manta ray soul core",
+		"id": "48968"
+	},
+	{
+		"name": "calamary soul core",
+		"id": "48969"
+	},
+	{
+		"name": "jellyfish soul core",
+		"id": "48970"
+	},
+	{
+		"name": "northern pike soul core",
+		"id": "48971"
+	},
+	{
+		"name": "spidris soul core",
+		"id": "48972"
+	},
+	{
+		"name": "kollos soul core",
+		"id": "48973"
+	},
+	{
+		"name": "spidris elite soul core",
+		"id": "48974"
+	},
+	{
+		"name": "hive overseer soul core",
+		"id": "48975"
+	},
+	{
+		"name": "deepling brawler soul core",
+		"id": "48976"
+	},
+	{
+		"name": "deepling master librarian soul core",
+		"id": "48977"
+	},
+	{
+		"name": "deepling tyrant soul core",
+		"id": "48978"
+	},
+	{
+		"name": "deepling elite soul core",
+		"id": "48979"
+	},
+	{
+		"name": "grave robber soul core",
+		"id": "48980"
+	},
+	{
+		"name": "crypt defiler soul core",
+		"id": "48981"
+	},
+	{
+		"name": "damaged crystal golem soul core",
+		"id": "48982"
+	},
+	{
+		"name": "modified gnarlhound soul core",
+		"id": "48983"
+	},
+	{
+		"name": "stone devourer soul core",
+		"id": "48984"
+	},
+	{
+		"name": "armadile soul core",
+		"id": "48985"
+	},
+	{
+		"name": "weeper soul core",
+		"id": "48986"
+	},
+	{
+		"name": "orewalker soul core",
+		"id": "48987"
+	},
+	{
+		"name": "lava golem soul core",
+		"id": "48988"
+	},
+	{
+		"name": "cliff strider soul core",
+		"id": "48989"
+	},
+	{
+		"name": "ironblight soul core",
+		"id": "48990"
+	},
+	{
+		"name": "dragonling soul core",
+		"id": "48991"
+	},
+	{
+		"name": "infected weeper soul core",
+		"id": "48992"
+	},
+	{
+		"name": "pigeon soul core",
+		"id": "48993"
+	},
+	{
+		"name": "little corym charlatan soul core",
+		"id": "48994"
+	},
+	{
+		"name": "walker soul core",
+		"id": "48995"
+	},
+	{
+		"name": "seacrest serpent soul core",
+		"id": "48996"
+	},
+	{
+		"name": "renegade quara constrictor soul core",
+		"id": "48997"
+	},
+	{
+		"name": "renegade quara hydromancer soul core",
+		"id": "48998"
+	},
+	{
+		"name": "renegade quara mantassin soul core",
+		"id": "48999"
+	},
+	{
+		"name": "renegade quara pincher soul core",
+		"id": "49000"
+	},
+	{
+		"name": "renegade quara predator soul core",
+		"id": "49001"
+	},
+	{
+		"name": "minotaur invader soul core",
+		"id": "49002"
+	},
+	{
+		"name": "noble lion soul core",
+		"id": "49003"
+	},
+	{
+		"name": "redeemed soul soul core",
+		"id": "49004"
+	},
+	{
+		"name": "gloom wolf soul core",
+		"id": "49005"
+	},
+	{
+		"name": "ghost wolf soul core",
+		"id": "49006"
+	},
+	{
+		"name": "elder forest fury soul core",
+		"id": "49007"
+	},
+	{
+		"name": "diamond servant replica soul core",
+		"id": "49008"
+	},
+	{
+		"name": "golden servant replica soul core",
+		"id": "49009"
+	},
+	{
+		"name": "haunted dragon soul core",
+		"id": "49010"
+	},
+	{
+		"name": "ice dragon soul core",
+		"id": "49011"
+	},
+	{
+		"name": "stone rhino soul core",
+		"id": "49012"
+	},
+	{
+		"name": "swan maiden soul core",
+		"id": "49013"
+	},
+	{
+		"name": "goldhanded cultist soul core",
+		"id": "49014"
+	},
+	{
+		"name": "goldhanded cultist bride soul core",
+		"id": "49015"
+	},
+	{
+		"name": "orc cultist soul core",
+		"id": "49016"
+	},
+	{
+		"name": "orc cult priest soul core",
+		"id": "49017"
+	},
+	{
+		"name": "orc cult fanatic soul core",
+		"id": "49018"
+	},
+	{
+		"name": "cult scholar soul core",
+		"id": "49019"
+	},
+	{
+		"name": "mole soul core",
+		"id": "49020"
+	},
+	{
+		"name": "arctic faun soul core",
+		"id": "49021"
+	},
+	{
+		"name": "flying book soul core",
+		"id": "49022"
+	},
+	{
+		"name": "cursed book soul core",
+		"id": "49023"
+	},
+	{
+		"name": "guardian of tales soul core",
+		"id": "49024"
+	},
+	{
+		"name": "knowledge elemental soul core",
+		"id": "49025"
+	},
+	{
+		"name": "lacewing moth soul core",
+		"id": "49026"
+	},
+	{
+		"name": "hibernal moth soul core",
+		"id": "49027"
+	},
+	{
+		"name": "percht soul core",
+		"id": "49028"
+	},
+	{
+		"name": "schiach soul core",
+		"id": "49029"
+	},
+	{
+		"name": "baleful bunny soul core",
+		"id": "49030"
+	},
+	{
+		"name": "animated snowman soul core",
+		"id": "49031"
+	},
+	{
+		"name": "gryphon soul core",
+		"id": "49032"
+	},
+	{
+		"name": "orger soul core",
+		"id": "49033"
+	},
+	{
+		"name": "roast pork soul core",
+		"id": "49034"
+	},
+	{
+		"name": "cow soul core",
+		"id": "49035"
+	},
+	{
+		"name": "loricate orger soul core",
+		"id": "49036"
+	},
+	{
+		"name": "bellicose orger soul core",
+		"id": "49037"
+	},
+	{
+		"name": "white lion soul core",
+		"id": "49038"
+	},
+	{
+		"name": "iks churrascan soul core",
+		"id": "49039"
+	},
+	{
+		"name": "rabid wolf soul core",
+		"id": "49040"
+	},
+	{
+		"name": "ragged rabid wolf soul core",
+		"id": "49041"
+	},
+	{
+		"name": "nibblemaw soul core",
+		"id": "49073"
+	},
+	{
+		"name": "candy floss elemental soul core",
+		"id": "49074"
+	},
+	{
+		"name": "goggle cake soul core",
+		"id": "49075"
+	},
+	{
+		"name": "candy horror soul core",
+		"id": "49076"
+	},
+	{
+		"name": "rootthing bug tracker soul core",
+		"id": "49077"
+	},
+	{
+		"name": "rootthing amber shaper soul core",
+		"id": "49078"
+	},
+	{
+		"name": "rootthing nutshell soul core",
+		"id": "49079"
+	},
+	{
+		"name": "quara raider soul core",
+		"id": "49080"
+	},
+	{
+		"name": "quara plunderer soul core",
+		"id": "49081"
+	},
+	{
+		"name": "quara looter soul core",
+		"id": "49082"
+	},
+	{
+		"name": "truffle soul core",
+		"id": "49084"
+	},
+	{
+		"name": "sugar cube soul core",
+		"id": "49085"
+	},
+	{
+		"name": "gingerbread man soul core",
+		"id": "49086"
+	},
+	{
+		"name": "chocolate blob soul core",
+		"id": "49087"
+	},
+	{
+		"name": "honey elemental soul core",
+		"id": "49088"
+	},
+	{
+		"name": "angry sugar fairy soul core",
+		"id": "49089"
+	},
+	{
+		"name": "truffle cook soul core",
+		"id": "49090"
+	},
+	{
+		"name": "fruit drop soul core",
+		"id": "49092"
+	},
+	{
+		"name": "sugar cube worker soul core",
+		"id": "49094"
+	},
+	{
+		"name": "cream blob soul core",
+		"id": "49095"
+	},
+	{
+		"name": "wafer paper butterfly soul core",
+		"id": "49162"
+	},
+	{
+		"name": "ominous soul core",
+		"id": "49163"
+	}
+]

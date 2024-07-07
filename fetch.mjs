@@ -67,21 +67,23 @@ const extractJson = async (url) => {
 	const json = await element?.evaluate(element => element.textContent);
 	const data = JSON.parse(json);
 	const filtered = data
-		// Remove empty objects (incl. at the end).
-	.filter(element => Object.hasOwn(element, 'name'))
-	// Fix-up properties where applicable.
-	.map(element => patchObject(element));
+		// Allow non-empty objects only.
+		.filter(element => {
+			return Object.hasOwn(element, 'name');
+		})
+		// Fix-up properties where applicable.
+		.map(element => patchObject(element));
+	if (url.includes('soulcoresjson')) {
+		filtered.sort((a, b) => a.id - b.id);
+	}
 	return filtered;
 };
 
-const stringify = (data) => {
-	return JSON.stringify(data, null, '\t') + '\n';
-};
-
 const urlsToFileNames = new Map([
+	['https://tibia.fandom.com/wiki/User:Mathias/test/achievementsjson', 'achievements.json'],
 	['https://tibia.fandom.com/wiki/User:Mathias/test/bestiaryjson',     'bestiary.json'],
 	['https://tibia.fandom.com/wiki/User:Mathias/test/bosstiaryjson',    'bosstiary.json'],
-	['https://tibia.fandom.com/wiki/User:Mathias/test/achievementsjson', 'achievements.json'],
+	['https://tibia.fandom.com/wiki/User:Mathias/test/soulcoresjson',    'soul-core-ids.json'],
 ]);
 
 for (const [url, fileName] of urlsToFileNames) {

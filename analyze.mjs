@@ -70,7 +70,7 @@ const {
 const maxCharmPoints = analyzeBestiaryData(bestiary);
 const maxBossPoints = analyzeBosstiaryData(bosstiary);
 
-await writeJsonFile('./data/max.mjs', {
+await writeJsonFile('./data/max.json', {
 	maxAchievementPointsIncludingCoincidingAchievements,
 	maxAchievementPointsExcludingCoincidingAchievements,
 	maxCharmPoints,
