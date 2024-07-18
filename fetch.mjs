@@ -28,7 +28,9 @@ const toMultiplier = (value) => {
 };
 
 const patchObject = (object) => {
-	if (Object.hasOwn(object, 'secret')) {
+	const isAchievement = Object.hasOwn(object, 'secret');
+	if (isAchievement) {
+		object.name = object.name.replace(' (Achievement)', '');
 		object.secret = toBoolean(object.secret);
 	}
 	const numberProps = new Set([
