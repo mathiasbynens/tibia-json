@@ -210,7 +210,7 @@
 		"points": 4
 	},
 	{
-		"name": "Berserker (Achievement)",
+		"name": "Berserker",
 		"grade": "1",
 		"secret": false,
 		"points": 3
@@ -636,7 +636,7 @@
 		"points": 8
 	},
 	{
-		"name": "Dream Catcher (Achievement)",
+		"name": "Dream Catcher",
 		"grade": "1",
 		"secret": false,
 		"points": 3
@@ -678,7 +678,7 @@
 		"points": 3
 	},
 	{
-		"name": "Dwarven Mines (Achievement)",
+		"name": "Dwarven Mines",
 		"grade": "1",
 		"secret": false,
 		"points": 1
@@ -816,7 +816,7 @@
 		"points": 2
 	},
 	{
-		"name": "Fire Devil (Achievement)",
+		"name": "Fire Devil",
 		"grade": "1",
 		"secret": true,
 		"points": 3
@@ -876,7 +876,7 @@
 		"points": 3
 	},
 	{
-		"name": "Forbidden Fruit (Achievement)",
+		"name": "Forbidden Fruit",
 		"grade": "1",
 		"secret": true,
 		"points": 1
@@ -1050,7 +1050,7 @@
 		"points": 1
 	},
 	{
-		"name": "Gravedigger (Achievement)",
+		"name": "Gravedigger",
 		"grade": "1",
 		"secret": false,
 		"points": 3
@@ -1284,7 +1284,7 @@
 		"points": 6
 	},
 	{
-		"name": "Huntsman (Achievement)",
+		"name": "Huntsman",
 		"grade": "1",
 		"secret": false,
 		"points": 2
@@ -1446,7 +1446,7 @@
 		"points": 3
 	},
 	{
-		"name": "Knowledge Raider (Achievement)",
+		"name": "Knowledge Raider",
 		"grade": "1",
 		"secret": false,
 		"points": 3
@@ -1542,7 +1542,7 @@
 		"points": 8
 	},
 	{
-		"name": "Lord of the Elements (Achievement)",
+		"name": "Lord of the Elements",
 		"grade": "2",
 		"secret": false,
 		"points": 5
@@ -2202,7 +2202,7 @@
 		"points": 3
 	},
 	{
-		"name": "Repenter (Achievement)",
+		"name": "Repenter",
 		"grade": "1",
 		"secret": true,
 		"points": 1
@@ -2376,7 +2376,7 @@
 		"points": 2
 	},
 	{
-		"name": "Sharpshooter (Achievement)",
+		"name": "Sharpshooter",
 		"grade": "1",
 		"secret": false,
 		"points": 3
@@ -3036,7 +3036,7 @@
 		"points": 1
 	},
 	{
-		"name": "Warlock (Achievement)",
+		"name": "Warlock",
 		"grade": "2",
 		"secret": false,
 		"points": 6
@@ -3102,7 +3102,7 @@
 		"points": 7
 	},
 	{
-		"name": "Wild Warrior (Achievement)",
+		"name": "Wild Warrior",
 		"grade": "2",
 		"secret": false,
 		"points": 6
