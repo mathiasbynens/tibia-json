@@ -4590,7 +4590,7 @@
 		"healMod": 1
 	},
 	{
-		"name": "Fish (Creature)",
+		"name": "Fish",
 		"bestiaryClass": "Aquatic",
 		"bestiaryLevel": "Trivial",
 		"occurrence": "Common",
@@ -8676,7 +8676,7 @@
 		"healMod": 1
 	},
 	{
-		"name": "Northern Pike (Creature)",
+		"name": "Northern Pike",
 		"bestiaryClass": "Aquatic",
 		"bestiaryLevel": "Harmless",
 		"occurrence": "Uncommon",
@@ -10530,7 +10530,7 @@
 		"healMod": 1
 	},
 	{
-		"name": "Sabretooth (Creature)",
+		"name": "Sabretooth",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Challenging",
 		"occurrence": "Common",
