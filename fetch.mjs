@@ -33,6 +33,13 @@ const patchObject = (object) => {
 		object.name = object.name.replace(' (Achievement)', '');
 		object.secret = toBoolean(object.secret);
 	}
+	const isCreatureOrBoss = (
+		Object.hasOwn(object, 'bestiaryClass') ||
+		Object.hasOwn(object, 'bosstiaryClass')
+	);
+	if (isCreatureOrBoss) {
+		object.name = object.name.replace(' (Creature)', '');
+	}
 	const numberProps = new Set([
 		'armor',
 		'charmPoints',
