@@ -11883,7 +11883,7 @@
 		"name": "Terrified Elephant",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Easy",
-		"occurrence": "Common",
+		"occurrence": "Uncommon",
 		"charmPoints": 15,
 		"experience": 160,
 		"hitpoints": 320,
