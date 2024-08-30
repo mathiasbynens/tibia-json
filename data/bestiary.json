@@ -8211,7 +8211,7 @@
 		"name": "Mole",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Easy",
-		"occurrence": "Common",
+		"occurrence": "Uncommon",
 		"charmPoints": 15,
 		"experience": 100,
 		"hitpoints": 200,
