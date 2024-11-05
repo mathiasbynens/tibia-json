@@ -3034,5 +3034,29 @@
 	{
 		"name": "ominous soul core",
 		"id": "49163"
+	},
+	{
+		"name": "spellreaper inferniarch soul core",
+		"id": "50103"
+	},
+	{
+		"name": "hellhunter inferniarch soul core",
+		"id": "50104"
+	},
+	{
+		"name": "brinebrute inferniarch soul core",
+		"id": "50105"
+	},
+	{
+		"name": "sineater inferniarch soul core",
+		"id": "50106"
+	},
+	{
+		"name": "broodrider inferniarch soul core",
+		"id": "50107"
+	},
+	{
+		"name": "gorger inferniarch soul core",
+		"id": "50108"
 	}
 ]

@@ -1242,6 +1242,24 @@
 		"healMod": 1
 	},
 	{
+		"name": "Brinebrute Inferniarch",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
+		"occurrence": "Common",
+		"charmPoints": 50,
+		"experience": 23500,
+		"hitpoints": 32000,
+		"armor": 80,
+		"physicalDmgMod": 0.8,
+		"earthDmgMod": 1.1,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1.1,
+		"energyDmgMod": 0.85,
+		"holyDmgMod": 1,
+		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
 		"name": "Broken Shaper",
 		"bestiaryClass": "Humanoid",
 		"bestiaryLevel": "Medium",
@@ -1257,6 +1275,24 @@
 		"energyDmgMod": 1.15,
 		"holyDmgMod": 0.8,
 		"iceDmgMod": 0.8,
+		"healMod": 1
+	},
+	{
+		"name": "Broodrider Inferniarch",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
+		"occurrence": "Common",
+		"charmPoints": 50,
+		"experience": 8450,
+		"hitpoints": 9600,
+		"armor": 70,
+		"physicalDmgMod": 1.05,
+		"earthDmgMod": 0.9,
+		"fireDmgMod": 0.8,
+		"deathDmgMod": 0.85,
+		"energyDmgMod": 1.1,
+		"holyDmgMod": 1.1,
+		"iceDmgMod": 1.15,
 		"healMod": 1
 	},
 	{
@@ -5508,6 +5544,24 @@
 		"healMod": 1
 	},
 	{
+		"name": "Gorger Inferniarch",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
+		"occurrence": "Common",
+		"charmPoints": 50,
+		"experience": 8300,
+		"hitpoints": 9450,
+		"armor": 74,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1,
+		"fireDmgMod": 0.8,
+		"deathDmgMod": 0.9,
+		"energyDmgMod": 1.1,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1.1,
+		"healMod": 1
+	},
+	{
 		"name": "Gozzler",
 		"bestiaryClass": "Demon",
 		"bestiaryLevel": "Easy",
@@ -5865,6 +5919,24 @@
 		"energyDmgMod": 0.9,
 		"holyDmgMod": 1.05,
 		"iceDmgMod": 1.05,
+		"healMod": 1
+	},
+	{
+		"name": "Hellhunter Inferniarch",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 9800,
+		"hitpoints": 11300,
+		"armor": 73,
+		"physicalDmgMod": 0.9,
+		"earthDmgMod": 1.15,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1.15,
+		"energyDmgMod": 0.85,
+		"holyDmgMod": 1,
+		"iceDmgMod": 0.95,
 		"healMod": 1
 	},
 	{
@@ -10998,6 +11070,24 @@
 		"healMod": 1
 	},
 	{
+		"name": "Sineater Inferniarch",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
+		"occurrence": "Common",
+		"charmPoints": 50,
+		"experience": 7900,
+		"hitpoints": 9150,
+		"armor": 68,
+		"physicalDmgMod": 1.05,
+		"earthDmgMod": 1,
+		"fireDmgMod": 0.8,
+		"deathDmgMod": 0.9,
+		"energyDmgMod": 1.1,
+		"holyDmgMod": 1.1,
+		"iceDmgMod": 1.05,
+		"healMod": 1
+	},
+	{
 		"name": "Skeleton",
 		"bestiaryClass": "Undead",
 		"bestiaryLevel": "Easy",
@@ -11283,6 +11373,24 @@
 		"energyDmgMod": 1.08,
 		"holyDmgMod": 1,
 		"iceDmgMod": 0.99,
+		"healMod": 1
+	},
+	{
+		"name": "Spellreaper Inferniarch",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
+		"occurrence": "Common",
+		"charmPoints": 50,
+		"experience": 10200,
+		"hitpoints": 11800,
+		"armor": 74,
+		"physicalDmgMod": 0.9,
+		"earthDmgMod": 1.15,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1.15,
+		"energyDmgMod": 0,
+		"holyDmgMod": 1,
+		"iceDmgMod": 0.9,
 		"healMod": 1
 	},
 	{
