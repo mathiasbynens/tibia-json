@@ -20,6 +20,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Arbaziloth",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Ayana the Crimson Curse",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -552,6 +556,10 @@
 		"bosstiaryClass": "Bane"
 	},
 	{
+		"name": "Gralvalon",
+		"bosstiaryClass": "Bane"
+	},
+	{
 		"name": "Grand Canon Dominus",
 		"bosstiaryClass": "Bane"
 	},
@@ -609,6 +617,10 @@
 	},
 	{
 		"name": "Mahrdis",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Malvaroth",
 		"bosstiaryClass": "Bane"
 	},
 	{
@@ -709,6 +721,10 @@
 	},
 	{
 		"name": "The Shatterer",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Twisterror",
 		"bosstiaryClass": "Bane"
 	},
 	{

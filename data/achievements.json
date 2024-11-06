@@ -822,6 +822,16 @@
 		"points": 1
 	},
 	{
+		"name": "Fiend Rider",
+		"grade": "1",
+		"points": 0
+	},
+	{
+		"name": "Fiend Slayer",
+		"grade": "1",
+		"points": 0
+	},
+	{
 		"name": "Final Strike",
 		"grade": "1",
 		"secret": true,
@@ -2710,6 +2720,11 @@
 		"grade": "1",
 		"secret": true,
 		"points": 2
+	},
+	{
+		"name": "Tear the Toxic Veil",
+		"grade": "3",
+		"points": 0
 	},
 	{
 		"name": "Territorial",
