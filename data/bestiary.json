@@ -5923,10 +5923,10 @@
 	},
 	{
 		"name": "Hellhunter Inferniarch",
-		"bestiaryClass": "",
-		"bestiaryLevel": "",
+		"bestiaryClass": "Demon",
+		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
-		"charmPoints": 0,
+		"charmPoints": 50,
 		"experience": 9800,
 		"hitpoints": 11300,
 		"armor": 73,
