@@ -11080,7 +11080,7 @@
 		"armor": 68,
 		"physicalDmgMod": 1.05,
 		"earthDmgMod": 1,
-		"fireDmgMod": 0.8,
+		"fireDmgMod": 0,
 		"deathDmgMod": 0.9,
 		"energyDmgMod": 1.1,
 		"holyDmgMod": 1.1,
