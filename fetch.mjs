@@ -42,6 +42,7 @@ const patchObject = (object) => {
 	}
 	const numberProps = new Set([
 		'armor',
+		'mitigation',
 		'charmPoints',
 		'experience',
 		'hitpoints',
