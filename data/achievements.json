@@ -830,12 +830,14 @@
 	{
 		"name": "Fiend Rider",
 		"grade": "1",
-		"points": 0
+		"secret": false,
+		"points": 3
 	},
 	{
 		"name": "Fiend Slayer",
 		"grade": "1",
-		"points": 0
+		"secret": false,
+		"points": 2
 	},
 	{
 		"name": "Final Strike",
