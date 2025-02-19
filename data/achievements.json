@@ -42,6 +42,12 @@
 		"points": 2
 	},
 	{
+		"name": "Alpha Rider",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Alumni",
 		"grade": "2",
 		"secret": false,
@@ -1144,6 +1150,12 @@
 		"grade": "1",
 		"secret": false,
 		"points": 3
+	},
+	{
+		"name": "Hell Rider",
+		"grade": "1",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Herbicide",
