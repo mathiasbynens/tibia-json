@@ -1296,6 +1296,12 @@
 		"points": 4
 	},
 	{
+		"name": "Hope of the Merudri",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Hot on the Trail",
 		"grade": "1",
 		"secret": false,
@@ -1372,6 +1378,12 @@
 		"grade": "2",
 		"secret": false,
 		"points": 6
+	},
+	{
+		"name": "Inner Peace",
+		"grade": "1",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Inquisition's Arm",
@@ -3021,6 +3033,12 @@
 		"grade": "3",
 		"secret": false,
 		"points": 8
+	},
+	{
+		"name": "Umbral Redeemer",
+		"grade": "2",
+		"secret": false,
+		"points": 6
 	},
 	{
 		"name": "Umbral Swordsman",
