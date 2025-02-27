@@ -12,12 +12,6 @@
 		"points": 3
 	},
 	{
-		"name": "Achievement 195",
-		"grade": "0",
-		"secret": true,
-		"points": 0
-	},
-	{
 		"name": "Afraid of no Ghost!",
 		"grade": "1",
 		"secret": false,
@@ -2530,6 +2524,12 @@
 		"grade": "1",
 		"secret": false,
 		"points": 2
+	},
+	{
+		"name": "Smart Thinking",
+		"grade": "1",
+		"secret": true,
+		"points": 0
 	},
 	{
 		"name": "Snake Charmer",
