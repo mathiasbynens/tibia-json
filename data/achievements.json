@@ -12,6 +12,12 @@
 		"points": 3
 	},
 	{
+		"name": "A Well-Honed Arsenal",
+		"grade": "2",
+		"secret": false,
+		"points": 5
+	},
+	{
 		"name": "Afraid of no Ghost!",
 		"grade": "1",
 		"secret": false,
@@ -96,6 +102,12 @@
 		"points": 4
 	},
 	{
+		"name": "Arsenal of War",
+		"grade": "3",
+		"secret": false,
+		"points": 7
+	},
+	{
 		"name": "Ashes to Dust",
 		"grade": "2",
 		"secret": true,
@@ -154,6 +166,12 @@
 		"grade": "1",
 		"secret": true,
 		"points": 2
+	},
+	{
+		"name": "Bat Person",
+		"grade": "1",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Battle Mage",
@@ -1368,6 +1386,12 @@
 		"points": 1
 	},
 	{
+		"name": "Illuminator",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "In Shining Armor",
 		"grade": "2",
 		"secret": false,
@@ -2130,6 +2154,12 @@
 		"points": 4
 	},
 	{
+		"name": "Power of Words",
+		"grade": "2",
+		"secret": false,
+		"points": 5
+	},
+	{
 		"name": "Preservationist",
 		"grade": "1",
 		"secret": true,
@@ -2787,6 +2817,12 @@
 		"grade": "1",
 		"secret": false,
 		"points": 1
+	},
+	{
+		"name": "The First of Many",
+		"grade": "1",
+		"secret": false,
+		"points": 3
 	},
 	{
 		"name": "The Gates of Hell",

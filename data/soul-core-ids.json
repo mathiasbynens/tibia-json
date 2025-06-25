@@ -3062,5 +3062,61 @@
 	{
 		"name": "monk's apparition soul core",
 		"id": "50330"
+	},
+	{
+		"name": "norcferatu heartless soul core",
+		"id": "51641"
+	},
+	{
+		"name": "varg soul core",
+		"id": "51642"
+	},
+	{
+		"name": "norcferatu nightweaver soul core",
+		"id": "51643"
+	},
+	{
+		"name": "dworc shadowstalker soul core",
+		"id": "51644"
+	},
+	{
+		"name": "orclops bloodbreaker soul core",
+		"id": "51645"
+	},
+	{
+		"name": "gloom maw soul core",
+		"id": "51646"
+	},
+	{
+		"name": "cinder wyrmling soul core",
+		"id": "51647"
+	},
+	{
+		"name": "bramble wyrmling soul core",
+		"id": "51648"
+	},
+	{
+		"name": "headwalker soul core",
+		"id": "51649"
+	},
+	{
+		"name": "bluebeak soul core",
+		"id": "51650"
+	},
+	{
+		"name": "hawk hopper soul core",
+		"id": "51651"
+	},
+	{
+		"name": "shell drake soul core",
+		"id": "51652"
+	},
+	{
+		"name": "crusader soul core",
+		"id": "51653"
+	},
+	{
+		"name": "lion hydra soul core",
+		"id": "51654"
 	}
 ]
