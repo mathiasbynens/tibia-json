@@ -1198,7 +1198,7 @@
 	},
 	{
 		"name": "Brain Squid",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -1954,6 +1954,25 @@
 		"energyDmgMod": 0.98,
 		"holyDmgMod": 1,
 		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
+		"name": "Cinder Wyrmling",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 1950,
+		"hitpoints": 2350,
+		"armor": 38,
+		"mitigation": 0.94,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 0.8,
+		"deathDmgMod": 1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 0.95,
+		"iceDmgMod": 1.1,
 		"healMod": 1
 	},
 	{
@@ -11587,6 +11606,25 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 1,
 		"iceDmgMod": 1,
+		"healMod": 1
+	},
+	{
+		"name": "Shell Drake",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 2370,
+		"hitpoints": 2800,
+		"armor": 43,
+		"mitigation": 1.04,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 0.8,
+		"deathDmgMod": 1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 1.05,
+		"iceDmgMod": 1.05,
 		"healMod": 1
 	},
 	{
