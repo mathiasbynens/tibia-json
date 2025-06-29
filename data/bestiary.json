@@ -1026,6 +1026,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Bluebeak",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 2070,
+		"hitpoints": 2430,
+		"armor": 40,
+		"mitigation": 1.04,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 1,
+		"energyDmgMod": 0.9,
+		"holyDmgMod": 0.9,
+		"iceDmgMod": 1,
+		"healMod": 1
+	},
+	{
 		"name": "Boar",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Easy",
@@ -1232,6 +1251,25 @@
 		"energyDmgMod": 0.9,
 		"holyDmgMod": 1.2,
 		"iceDmgMod": 0.8,
+		"healMod": 1
+	},
+	{
+		"name": "Bramble Wyrmling",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 1950,
+		"hitpoints": 2350,
+		"armor": 38,
+		"mitigation": 0.94,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 0.8,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 1.1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 0.95,
+		"iceDmgMod": 1,
 		"healMod": 1
 	},
 	{
