@@ -36,6 +36,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Blight Mariner",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Bloodback",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -280,6 +284,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Sir Leonard",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Sir Nictros",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -412,6 +420,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Tropical Desolator",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Unaz the Mean",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -425,6 +437,10 @@
 	},
 	{
 		"name": "Vemiath",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Vladrukh",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -1037,6 +1053,10 @@
 	},
 	{
 		"name": "Shlorg",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Sir Leopold",
 		"bosstiaryClass": "Nemesis"
 	},
 	{

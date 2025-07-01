@@ -1039,7 +1039,7 @@
 		"earthDmgMod": 1,
 		"fireDmgMod": 1.05,
 		"deathDmgMod": 1,
-		"energyDmgMod": 0.9,
+		"energyDmgMod": 1.05,
 		"holyDmgMod": 0.9,
 		"iceDmgMod": 1,
 		"healMod": 1
@@ -4161,6 +4161,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Dworc Shadowstalker",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 7150,
+		"hitpoints": 8900,
+		"armor": 64,
+		"mitigation": 1.88,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 0.95,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 0.6,
+		"energyDmgMod": 1.05,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1.05,
+		"healMod": 1
+	},
+	{
 		"name": "Dworc Venomsniper",
 		"bestiaryClass": "Humanoid",
 		"bestiaryLevel": "Easy",
@@ -6229,6 +6248,25 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 0.8,
 		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
+		"name": "Hawk Hopper",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 1770,
+		"hitpoints": 2180,
+		"armor": 36,
+		"mitigation": 0.94,
+		"physicalDmgMod": 1.05,
+		"earthDmgMod": 0.85,
+		"fireDmgMod": 1.1,
+		"deathDmgMod": 1.05,
+		"energyDmgMod": 0.9,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1.1,
 		"healMod": 1
 	},
 	{
