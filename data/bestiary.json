@@ -7049,6 +7049,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Ink Splash",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Rare",
+		"charmPoints": 0,
+		"experience": 1450,
+		"hitpoints": 1950,
+		"armor": 36,
+		"mitigation": 0.99,
+		"physicalDmgMod": 0.9,
+		"earthDmgMod": 0.85,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 0.85,
+		"energyDmgMod": 1.1,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1,
+		"healMod": 1
+	},
+	{
 		"name": "Insane Siren",
 		"bestiaryClass": "Humanoid",
 		"bestiaryLevel": "Hard",
@@ -9348,6 +9367,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Norcferatu Heartless",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 4450,
+		"hitpoints": 5700,
+		"armor": 64,
+		"mitigation": 1.54,
+		"physicalDmgMod": null,
+		"earthDmgMod": null,
+		"fireDmgMod": null,
+		"deathDmgMod": null,
+		"energyDmgMod": null,
+		"holyDmgMod": null,
+		"iceDmgMod": null,
+		"healMod": null
+	},
+	{
 		"name": "Northern Pike",
 		"bestiaryClass": "Aquatic",
 		"bestiaryLevel": "Harmless",
@@ -9877,6 +9915,25 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 1,
 		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
+		"name": "Orclops Bloodbreaker",
+		"bestiaryClass": "",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 7800,
+		"hitpoints": 10300,
+		"armor": 68,
+		"mitigation": 2.05,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 1,
+		"fireDmgMod": 1.1,
+		"deathDmgMod": 0.7,
+		"energyDmgMod": 1,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1.05,
 		"healMod": 1
 	},
 	{
