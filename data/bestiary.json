@@ -1027,7 +1027,7 @@
 	},
 	{
 		"name": "Bluebeak",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -1255,7 +1255,7 @@
 	},
 	{
 		"name": "Bramble Wyrmling",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -1996,7 +1996,7 @@
 	},
 	{
 		"name": "Cinder Wyrmling",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -2505,6 +2505,25 @@
 		"energyDmgMod": 1.05,
 		"holyDmgMod": 1,
 		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
+		"name": "Crusader",
+		"bestiaryClass": "Inkborn",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 3050,
+		"hitpoints": 3400,
+		"armor": 52,
+		"mitigation": 0.99,
+		"physicalDmgMod": 0.9,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 0.95,
+		"deathDmgMod": 1,
+		"energyDmgMod": 0.9,
+		"holyDmgMod": 0.9,
+		"iceDmgMod": 1.1,
 		"healMod": 1
 	},
 	{
@@ -5586,6 +5605,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Gloom Maw",
+		"bestiaryClass": "Undead",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 6900,
+		"hitpoints": 8700,
+		"armor": 68,
+		"mitigation": 1.76,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1.1,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 0.75,
+		"energyDmgMod": 1.1,
+		"holyDmgMod": 1.05,
+		"iceDmgMod": 1,
+		"healMod": 1
+	},
+	{
 		"name": "Gloom Wolf",
 		"bestiaryClass": "Mammal",
 		"bestiaryLevel": "Easy",
@@ -6252,7 +6290,7 @@
 	},
 	{
 		"name": "Hawk Hopper",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -6286,6 +6324,25 @@
 		"energyDmgMod": 0.9,
 		"holyDmgMod": 0,
 		"iceDmgMod": 1.1,
+		"healMod": 1
+	},
+	{
+		"name": "Headwalker",
+		"bestiaryClass": "Inkborn",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 2050,
+		"hitpoints": 2460,
+		"armor": 38,
+		"mitigation": 0.96,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1.1,
+		"energyDmgMod": 0.85,
+		"holyDmgMod": 1.05,
+		"iceDmgMod": 1.05,
 		"healMod": 1
 	},
 	{
@@ -7692,6 +7749,25 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 0.8,
 		"iceDmgMod": 1.15,
+		"healMod": 1
+	},
+	{
+		"name": "Lion Hydra",
+		"bestiaryClass": "Inkborn",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 2450,
+		"hitpoints": 2760,
+		"armor": 42,
+		"mitigation": 1.15,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1.1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 1.05,
+		"iceDmgMod": 1,
 		"healMod": 1
 	},
 	{
@@ -9368,7 +9444,7 @@
 	},
 	{
 		"name": "Norcferatu Heartless",
-		"bestiaryClass": "",
+		"bestiaryClass": "Humanoid",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -9384,6 +9460,25 @@
 		"holyDmgMod": 1.05,
 		"iceDmgMod": 1,
 		"healMod": null
+	},
+	{
+		"name": "Norcferatu Nightweaver",
+		"bestiaryClass": "Humanoid",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 4900,
+		"hitpoints": 6100,
+		"armor": 60,
+		"mitigation": 1.76,
+		"physicalDmgMod": null,
+		"earthDmgMod": 1.05,
+		"fireDmgMod": 1,
+		"deathDmgMod": 0.75,
+		"energyDmgMod": 0.9,
+		"holyDmgMod": null,
+		"iceDmgMod": 1.1,
+		"healMod": 1
 	},
 	{
 		"name": "Northern Pike",
@@ -9919,7 +10014,7 @@
 	},
 	{
 		"name": "Orclops Bloodbreaker",
-		"bestiaryClass": "Giant",
+		"bestiaryClass": "Undead",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -11743,7 +11838,7 @@
 	},
 	{
 		"name": "Shell Drake",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "",
 		"occurrence": "Common",
 		"charmPoints": 0,
@@ -13620,6 +13715,25 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 1.25,
 		"iceDmgMod": 0.9,
+		"healMod": 1
+	},
+	{
+		"name": "Varg",
+		"bestiaryClass": "Humans",
+		"bestiaryLevel": "",
+		"occurrence": "Common",
+		"charmPoints": 0,
+		"experience": 4100,
+		"hitpoints": 5400,
+		"armor": 63,
+		"mitigation": 1.68,
+		"physicalDmgMod": 0.95,
+		"earthDmgMod": 1,
+		"fireDmgMod": 1.05,
+		"deathDmgMod": 0.75,
+		"energyDmgMod": 0.9,
+		"holyDmgMod": 0.95,
+		"iceDmgMod": 1.05,
 		"healMod": 1
 	},
 	{
