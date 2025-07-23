@@ -284,10 +284,6 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
-		"name": "Sir Leonard",
-		"bosstiaryClass": "Archfoe"
-	},
-	{
 		"name": "Sir Nictros",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -701,6 +697,10 @@
 	},
 	{
 		"name": "Shadowstalker",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Sir Leonard",
 		"bosstiaryClass": "Bane"
 	},
 	{
