@@ -18,6 +18,18 @@
 		"points": 5
 	},
 	{
+		"name": "",
+		"grade": "",
+		"secret": true,
+		"points": null
+	},
+	{
+		"name": "",
+		"grade": "",
+		"secret": true,
+		"points": null
+	},
+	{
 		"name": "Afraid of no Ghost!",
 		"grade": "1",
 		"secret": false,
@@ -2780,6 +2792,7 @@
 	{
 		"name": "Tear the Toxic Veil",
 		"grade": "3",
+		"secret": false,
 		"points": 7
 	},
 	{
