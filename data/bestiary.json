@@ -5055,7 +5055,7 @@
 	},
 	{
 		"name": "Flying Book",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Medium",
 		"occurrence": "Uncommon",
 		"charmPoints": 25,
