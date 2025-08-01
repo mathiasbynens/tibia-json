@@ -248,7 +248,7 @@
 	},
 	{
 		"name": "Animated Feather",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -818,7 +818,7 @@
 	},
 	{
 		"name": "Biting Book",
-		"bestiaryClass": "Construct",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -2775,7 +2775,7 @@
 	},
 	{
 		"name": "Cursed Book",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Uncommon",
 		"charmPoints": 50,
@@ -6860,7 +6860,7 @@
 	},
 	{
 		"name": "Icecold Book",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -7088,7 +7088,7 @@
 	},
 	{
 		"name": "Ink Blob",
-		"bestiaryClass": "Slime",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
