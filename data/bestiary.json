@@ -1483,7 +1483,7 @@
 	},
 	{
 		"name": "Burning Book",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -4485,7 +4485,7 @@
 	},
 	{
 		"name": "Energetic Book",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -4504,7 +4504,7 @@
 	},
 	{
 		"name": "Energuardian of Tales",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -6176,7 +6176,7 @@
 	},
 	{
 		"name": "Guardian of Tales",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Uncommon",
 		"charmPoints": 50,
@@ -10945,7 +10945,7 @@
 	},
 	{
 		"name": "Rage Squid",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
@@ -12446,7 +12446,7 @@
 	},
 	{
 		"name": "Squid Warden",
-		"bestiaryClass": "Magical",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Hard",
 		"occurrence": "Common",
 		"charmPoints": 50,
