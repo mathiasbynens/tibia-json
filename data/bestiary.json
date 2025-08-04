@@ -7107,7 +7107,7 @@
 	},
 	{
 		"name": "Ink Splash",
-		"bestiaryClass": "",
+		"bestiaryClass": "Inkborn",
 		"bestiaryLevel": "Medium",
 		"occurrence": "Rare",
 		"charmPoints": 25,
@@ -8976,7 +8976,7 @@
 		"experience": 18870,
 		"hitpoints": 25000,
 		"armor": 0,
-		"mitigation": 0,
+		"mitigation": 3.04,
 		"physicalDmgMod": 0.8,
 		"earthDmgMod": 1,
 		"fireDmgMod": 1.1,
