@@ -9476,7 +9476,7 @@
 		"fireDmgMod": 1,
 		"deathDmgMod": 0.75,
 		"energyDmgMod": 0.9,
-		"holyDmgMod": null,
+		"holyDmgMod": 0.95,
 		"iceDmgMod": 1.1,
 		"healMod": 1
 	},
