@@ -2838,6 +2838,12 @@
 		"points": 3
 	},
 	{
+		"name": "The Forbidden Build",
+		"grade": "1",
+		"secret": true,
+		"points": 3
+	},
+	{
 		"name": "The Gates of Hell",
 		"grade": "1",
 		"secret": false,
