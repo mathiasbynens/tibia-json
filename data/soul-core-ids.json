@@ -1,21 +1,5 @@
 [
 	{
-		"name": "corrupted ghost soul core",
-		"id": ""
-	},
-	{
-		"name": "corrupted skeleton soul core",
-		"id": ""
-	},
-	{
-		"name": "muglex clan assassin soul core",
-		"id": ""
-	},
-	{
-		"name": "muglex clan footman soul core",
-		"id": ""
-	},
-	{
 		"name": "orc warlord soul core",
 		"id": "47381"
 	},
@@ -3138,5 +3122,21 @@
 	{
 		"name": "ink splash soul core",
 		"id": "51721"
+	},
+	{
+		"name": "muglex clan footman soul core",
+		"id": "52358"
+	},
+	{
+		"name": "muglex clan assassin soul core",
+		"id": "52359"
+	},
+	{
+		"name": "corrupted ghost soul core",
+		"id": "52360"
+	},
+	{
+		"name": "corrupted skeleton soul core",
+		"id": "52361"
 	}
 ]
