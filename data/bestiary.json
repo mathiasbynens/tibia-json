@@ -10974,11 +10974,11 @@
 		"mitigation": 0.07,
 		"physicalDmgMod": 1,
 		"earthDmgMod": 1,
-		"fireDmgMod": 1,
+		"fireDmgMod": 1.1,
 		"deathDmgMod": 1,
 		"energyDmgMod": 1,
 		"holyDmgMod": 1,
-		"iceDmgMod": 1,
+		"iceDmgMod": 1.1,
 		"healMod": 1
 	},
 	{
