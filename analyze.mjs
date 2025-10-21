@@ -1,12 +1,11 @@
 import {writeJsonFile} from './utils.mjs';
+import {UNFAIR_ACHIEVEMENT_POINTS} from './unfair-achievement-points.mjs';
 
 import achievements from './data/achievements.json' with { type: 'json' };
 import bestiary from './data/bestiary.json' with { type: 'json' };
 import bosstiary from './data/bosstiary.json' with { type: 'json' };
 
 const analyzeAchievementData = (data) => {
-	const UNFAIR_ACHIEVEMENT_POINTS = 34;
-
 	let sum = 0;
 	for (const achievement of data) {
 		if (!achievement.name) continue;
@@ -19,9 +18,11 @@ const analyzeAchievementData = (data) => {
 	}
 	const maxAchievementPointsIncludingCoincidingAchievements = sum;
 	const maxAchievementPointsExcludingCoincidingAchievements = sum - UNFAIR_ACHIEVEMENT_POINTS;
+	console.log(`Unfair achievement points (obtained by rooking): ${UNFAIR_ACHIEVEMENT_POINTS}`);
 	console.log(`Max achievement points incl. coinciding achievements: ${maxAchievementPointsIncludingCoincidingAchievements}`);
 	console.log(`Max achievement points excl. coinciding achievements: ${maxAchievementPointsExcludingCoincidingAchievements}`);
 	return {
+		unfairAchievementPoints: UNFAIR_ACHIEVEMENT_POINTS,
 		maxAchievementPointsIncludingCoincidingAchievements,
 		maxAchievementPointsExcludingCoincidingAchievements,
 	};
@@ -64,6 +65,7 @@ const analyzeBosstiaryData = (data) => {
 };
 
 const {
+	unfairAchievementPoints,
 	maxAchievementPointsIncludingCoincidingAchievements,
 	maxAchievementPointsExcludingCoincidingAchievements,
 } = analyzeAchievementData(achievements);
@@ -71,6 +73,7 @@ const maxCharmPoints = analyzeBestiaryData(bestiary);
 const maxBossPoints = analyzeBosstiaryData(bosstiary);
 
 await writeJsonFile('./data/max.json', {
+	unfairAchievementPoints,
 	maxAchievementPointsIncludingCoincidingAchievements,
 	maxAchievementPointsExcludingCoincidingAchievements,
 	maxCharmPoints,
