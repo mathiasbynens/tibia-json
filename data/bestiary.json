@@ -13594,7 +13594,7 @@
 		"hitpoints": 8200,
 		"armor": 83,
 		"mitigation": 2.4,
-		"physicalDmgMod": 0.65,
+		"physicalDmgMod": 0.85,
 		"earthDmgMod": 1,
 		"fireDmgMod": 0.9,
 		"deathDmgMod": 1.15,
