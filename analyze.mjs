@@ -5,7 +5,7 @@ import bestiary from './data/bestiary.json' with { type: 'json' };
 import bosstiary from './data/bosstiary.json' with { type: 'json' };
 
 const analyzeAchievementData = (data) => {
-	const UNFAIR_ACHIEVEMENT_POINTS = 45;
+	const UNFAIR_ACHIEVEMENT_POINTS = 34;
 
 	let sum = 0;
 	for (const achievement of data) {
