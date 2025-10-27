@@ -9101,25 +9101,6 @@
 		"healMod": 1
 	},
 	{
-		"name": "Muglex Clan Chief",
-		"bestiaryClass": "Humanoid",
-		"bestiaryLevel": "Boss",
-		"occurrence": "Boss",
-		"charmPoints": 0,
-		"experience": 0,
-		"hitpoints": 100,
-		"armor": 0,
-		"mitigation": null,
-		"physicalDmgMod": null,
-		"earthDmgMod": null,
-		"fireDmgMod": null,
-		"deathDmgMod": null,
-		"energyDmgMod": null,
-		"holyDmgMod": null,
-		"iceDmgMod": null,
-		"healMod": 1
-	},
-	{
 		"name": "Muglex Clan Footman",
 		"bestiaryClass": "Humanoid",
 		"bestiaryLevel": "Trivial",
@@ -9136,7 +9117,7 @@
 		"energyDmgMod": 1,
 		"holyDmgMod": 0.8,
 		"iceDmgMod": 1,
-		"healMod": 1
+		"healMod": null
 	},
 	{
 		"name": "Mummy",
@@ -13107,25 +13088,6 @@
 		"energyDmgMod": 0.5,
 		"holyDmgMod": 0.8,
 		"iceDmgMod": 1,
-		"healMod": 1
-	},
-	{
-		"name": "The Corruptor",
-		"bestiaryClass": "Undead",
-		"bestiaryLevel": "Boss",
-		"occurrence": "Boss",
-		"charmPoints": 0,
-		"experience": 0,
-		"hitpoints": 100,
-		"armor": 0,
-		"mitigation": null,
-		"physicalDmgMod": null,
-		"earthDmgMod": null,
-		"fireDmgMod": null,
-		"deathDmgMod": null,
-		"energyDmgMod": null,
-		"holyDmgMod": null,
-		"iceDmgMod": null,
 		"healMod": 1
 	},
 	{
