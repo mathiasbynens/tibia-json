@@ -3138,5 +3138,65 @@
 	{
 		"name": "corrupted skeleton soul core",
 		"id": "52361"
+	},
+	{
+		"name": "destrier soul core",
+		"id": "52799"
+	},
+	{
+		"name": "raubritter skirmisher soul core",
+		"id": "52800"
+	},
+	{
+		"name": "raubritter marksman soul core",
+		"id": "52801"
+	},
+	{
+		"name": "raubritter chastener soul core",
+		"id": "52802"
+	},
+	{
+		"name": "cyclursus soul core",
+		"id": "52807"
+	},
+	{
+		"name": "crypt fiend soul core",
+		"id": "52808"
+	},
+	{
+		"name": "walking dread soul core",
+		"id": "52809"
+	},
+	{
+		"name": "crypt construct soul core",
+		"id": "52810"
+	},
+	{
+		"name": "haunted hunter soul core",
+		"id": "52811"
+	},
+	{
+		"name": "creepy crawler soul core",
+		"id": "52812"
+	},
+	{
+		"name": "night harpy soul core",
+		"id": "52813"
+	},
+	{
+		"name": "roaming dread soul core",
+		"id": "52814"
+	},
+	{
+		"name": "crypt mage soul core",
+		"id": "52815"
+	},
+	{
+		"name": "stag soul core",
+		"id": "52865"
+	},
+	{
+		"name": "imperial soul core",
+		"id": "52866"
 	}
 ]

@@ -6342,7 +6342,7 @@
 		"deathDmgMod": 1.05,
 		"energyDmgMod": 0.9,
 		"holyDmgMod": 1,
-		"iceDmgMod": 1.1,
+		"iceDmgMod": 1,
 		"healMod": 1
 	},
 	{
