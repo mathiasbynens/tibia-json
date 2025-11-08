@@ -174,6 +174,12 @@
 		"points": 2
 	},
 	{
+		"name": "Bastard",
+		"grade": "2",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Bat Person",
 		"grade": "1",
 		"secret": false,
@@ -762,6 +768,12 @@
 		"points": 2
 	},
 	{
+		"name": "Errand Runner",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Exalted Battle Mage",
 		"grade": "1",
 		"secret": false,
@@ -838,6 +850,12 @@
 		"grade": "1",
 		"secret": true,
 		"points": 1
+	},
+	{
+		"name": "Feral Trapper",
+		"grade": "1",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Fiend Rider",
@@ -2094,6 +2112,12 @@
 		"points": 3
 	},
 	{
+		"name": "Pest Control",
+		"grade": "3",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Petrologist",
 		"grade": "1",
 		"secret": true,
@@ -2772,6 +2796,12 @@
 		"points": 2
 	},
 	{
+		"name": "Taskaholic",
+		"grade": "3",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Taskmaster",
 		"grade": "1",
 		"secret": false,
@@ -3232,6 +3262,12 @@
 		"grade": "1",
 		"secret": true,
 		"points": 3
+	},
+	{
+		"name": "Workhorse",
+		"grade": "2",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Worm Whacker",
