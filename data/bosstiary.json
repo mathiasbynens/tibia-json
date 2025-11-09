@@ -4,6 +4,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Adventurer Group",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Ahau",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -41,6 +45,10 @@
 	},
 	{
 		"name": "Bloodback",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Bone Overlord",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -85,6 +93,10 @@
 	},
 	{
 		"name": "Ekatrix",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Eldritch Dragon Lord",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -137,6 +149,10 @@
 	},
 	{
 		"name": "Grand Master Oberon",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Ice Horror",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -349,6 +365,10 @@
 	},
 	{
 		"name": "The Flaming Orchid",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Gravedigger",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
