@@ -177,7 +177,7 @@
 		"name": "Bastard",
 		"grade": "2",
 		"secret": false,
-		"points": 0
+		"points": 5
 	},
 	{
 		"name": "Bat Person",
@@ -1527,7 +1527,7 @@
 		"name": "King's Council",
 		"grade": "1",
 		"secret": false,
-		"points": null
+		"points": 2
 	},
 	{
 		"name": "Knock on Wood",
