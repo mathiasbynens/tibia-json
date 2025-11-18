@@ -2280,6 +2280,12 @@
 		"points": 7
 	},
 	{
+		"name": "Razor's Edge",
+		"grade": "2",
+		"secret": true,
+		"points": 4
+	},
+	{
 		"name": "Realms of Dreams",
 		"grade": "1",
 		"secret": false,

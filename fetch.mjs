@@ -1,8 +1,10 @@
 import puppeteer from 'puppeteer';
 
-import {writeJsonFile} from './utils.mjs';
+import { writeJsonFile } from './utils.mjs';
 
-const browser = await puppeteer.launch();
+const browser = await puppeteer.launch({
+	headless: 'shell',
+});
 const page = await browser.newPage();
 
 const toBoolean = (value) => {
@@ -33,10 +35,9 @@ const patchObject = (object) => {
 		object.name = object.name.replace(' (Achievement)', '');
 		object.secret = toBoolean(object.secret);
 	}
-	const isCreatureOrBoss = (
+	const isCreatureOrBoss =
 		Object.hasOwn(object, 'bestiaryClass') ||
-		Object.hasOwn(object, 'bosstiaryClass')
-	);
+		Object.hasOwn(object, 'bosstiaryClass');
 	if (isCreatureOrBoss) {
 		object.name = object.name.replace(' (Creature)', '');
 	}
@@ -74,15 +75,15 @@ const patchObject = (object) => {
 const extractJson = async (url) => {
 	await page.goto(url);
 	const element = await page.waitForSelector('.mw-parser-output');
-	const json = await element?.evaluate(element => element.textContent);
+	const json = await element?.evaluate((element) => element.textContent);
 	const data = JSON.parse(json);
 	const filtered = data
 		// Allow non-empty objects only.
-		.filter(element => {
+		.filter((element) => {
 			return Object.hasOwn(element, 'name');
 		})
 		// Fix-up properties where applicable.
-		.map(element => patchObject(element));
+		.map((element) => patchObject(element));
 	if (url.includes('soulcoresjson')) {
 		filtered.sort((a, b) => a.id - b.id);
 	}
@@ -90,10 +91,22 @@ const extractJson = async (url) => {
 };
 
 const urlsToFileNames = new Map([
-	['https://tibia.fandom.com/wiki/User:Mathias/test/achievementsjson', 'achievements.json'],
-	['https://tibia.fandom.com/wiki/User:Mathias/test/bestiaryjson',     'bestiary.json'],
-	['https://tibia.fandom.com/wiki/User:Mathias/test/bosstiaryjson',    'bosstiary.json'],
-	['https://tibia.fandom.com/wiki/User:Mathias/test/soulcoresjson',    'soul-core-ids.json'],
+	[
+		'https://tibia.fandom.com/wiki/User:Mathias/test/achievementsjson',
+		'achievements.json',
+	],
+	[
+		'https://tibia.fandom.com/wiki/User:Mathias/test/bestiaryjson',
+		'bestiary.json',
+	],
+	[
+		'https://tibia.fandom.com/wiki/User:Mathias/test/bosstiaryjson',
+		'bosstiary.json',
+	],
+	[
+		'https://tibia.fandom.com/wiki/User:Mathias/test/soulcoresjson',
+		'soul-core-ids.json',
+	],
 ]);
 
 for (const [url, fileName] of urlsToFileNames) {

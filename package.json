@@ -6,6 +6,6 @@
 		"analyze": "node analyze.mjs"
 	},
 	"devDependencies": {
-		"puppeteer": "^22.11.1"
+		"puppeteer": "^24.30.0"
 	}
 }
