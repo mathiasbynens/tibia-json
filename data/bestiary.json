@@ -7030,6 +7030,25 @@
 		"healMod": 1
 	},
 	{
+		"name": "Imperial",
+		"bestiaryClass": "Mammal",
+		"bestiaryLevel": "Trivial",
+		"occurrence": "Very Rare",
+		"charmPoints": 10,
+		"experience": 0,
+		"hitpoints": 100,
+		"armor": 0,
+		"mitigation": 0,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1,
+		"healMod": 1
+	},
+	{
 		"name": "Infected Weeper",
 		"bestiaryClass": "Construct",
 		"bestiaryLevel": "Hard",
@@ -12613,6 +12632,25 @@
 		"energyDmgMod": 0.3,
 		"holyDmgMod": 1,
 		"iceDmgMod": 0.8,
+		"healMod": 1
+	},
+	{
+		"name": "Stag",
+		"bestiaryClass": "Mammal",
+		"bestiaryLevel": "Trivial",
+		"occurrence": "Common",
+		"charmPoints": 5,
+		"experience": 0,
+		"hitpoints": 50,
+		"armor": 0,
+		"mitigation": 0,
+		"physicalDmgMod": 1,
+		"earthDmgMod": 1,
+		"fireDmgMod": 1,
+		"deathDmgMod": 1,
+		"energyDmgMod": 1,
+		"holyDmgMod": 1,
+		"iceDmgMod": 1,
 		"healMod": 1
 	},
 	{
