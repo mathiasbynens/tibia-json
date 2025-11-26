@@ -68,6 +68,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Court Warlock",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Darkfang",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -480,6 +484,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Adlerauge",
+		"bosstiaryClass": "Bane"
+	},
+	{
 		"name": "Annihilon",
 		"bosstiaryClass": "Bane"
 	},
@@ -517,6 +525,10 @@
 	},
 	{
 		"name": "Chopper",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Clavius",
 		"bosstiaryClass": "Bane"
 	},
 	{
@@ -673,6 +685,10 @@
 	},
 	{
 		"name": "Mephiles",
+		"bosstiaryClass": "Bane"
+	},
+	{
+		"name": "Michael the Stalwart",
 		"bosstiaryClass": "Bane"
 	},
 	{
