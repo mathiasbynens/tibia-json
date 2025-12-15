@@ -9472,12 +9472,12 @@
 		"armor": 0,
 		"mitigation": 0,
 		"physicalDmgMod": 1,
-		"earthDmgMod": null,
-		"fireDmgMod": null,
-		"deathDmgMod": null,
+		"earthDmgMod": 0.6,
+		"fireDmgMod": 0.7,
+		"deathDmgMod": 1.09,
 		"energyDmgMod": 1,
-		"holyDmgMod": null,
-		"iceDmgMod": null,
+		"holyDmgMod": 1.09,
+		"iceDmgMod": 1.12,
 		"healMod": 1
 	},
 	{
