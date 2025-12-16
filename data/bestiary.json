@@ -11543,12 +11543,12 @@
 		"armor": 0,
 		"mitigation": 0,
 		"physicalDmgMod": 1,
-		"earthDmgMod": 1,
-		"fireDmgMod": 1,
-		"deathDmgMod": 1,
-		"energyDmgMod": 1,
+		"earthDmgMod": 1.09,
+		"fireDmgMod": 1.09,
+		"deathDmgMod": 1.18,
+		"energyDmgMod": 1.09,
 		"holyDmgMod": 1,
-		"iceDmgMod": 1,
+		"iceDmgMod": 1.09,
 		"healMod": 1
 	},
 	{
