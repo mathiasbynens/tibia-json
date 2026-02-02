@@ -18,12 +18,6 @@
 		"points": 5
 	},
 	{
-		"name": "",
-		"grade": "",
-		"secret": true,
-		"points": null
-	},
-	{
 		"name": "Afraid of no Ghost!",
 		"grade": "1",
 		"secret": false,
@@ -1636,6 +1630,12 @@
 		"grade": "2",
 		"secret": false,
 		"points": 5
+	},
+	{
+		"name": "Lost Letters",
+		"grade": "1",
+		"secret": true,
+		"points": 3
 	},
 	{
 		"name": "Lost Palace Raider",

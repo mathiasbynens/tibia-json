@@ -80,7 +80,7 @@ const extractJson = async (url) => {
 	const filtered = data
 		// Allow non-empty objects only.
 		.filter((element) => {
-			return Object.hasOwn(element, 'name');
+			return Object.hasOwn(element, 'name') && element.name.length > 0;
 		})
 		// Fix-up properties where applicable.
 		.map((element) => patchObject(element));
