@@ -1,8 +1,9 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "npm run fetch && npm run analyze",
+		"build": "npm run patch && npm run analyze",
 		"fetch": "node fetch.mjs",
+		"patch": "node patch.mjs",
 		"analyze": "node analyze.mjs"
 	},
 	"devDependencies": {

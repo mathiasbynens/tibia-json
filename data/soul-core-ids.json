@@ -3194,5 +3194,61 @@
 	{
 		"name": "imperial soul core",
 		"id": "52866"
+	},
+	{
+		"name": "pirate navigator soul core",
+		"id": "53142"
+	},
+	{
+		"name": "pirate gunner soul core",
+		"id": "53143"
+	},
+	{
+		"name": "pirate cook soul core",
+		"id": "53144"
+	},
+	{
+		"name": "pirate quartermaster soul core",
+		"id": "53145"
+	},
+	{
+		"name": "sea captain soul core",
+		"id": "53146"
+	},
+	{
+		"name": "lizard henchman soul core",
+		"id": "53147"
+	},
+	{
+		"name": "lizard magician soul core",
+		"id": "53148"
+	},
+	{
+		"name": "lizard swordmaster soul core",
+		"id": "53149"
+	},
+	{
+		"name": "lizard executioner soul core",
+		"id": "53150"
+	},
+	{
+		"name": "lizard commander soul core",
+		"id": "53151"
+	},
+	{
+		"name": "infernoid blob soul core",
+		"id": "53152"
+	},
+	{
+		"name": "infernoid hound soul core",
+		"id": "53153"
+	},
+	{
+		"name": "infernoid soul soul core",
+		"id": "53154"
+	},
+	{
+		"name": "infernoid spiritual soul core",
+		"id": "53155"
 	}
 ]

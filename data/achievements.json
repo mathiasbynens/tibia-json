@@ -18,6 +18,12 @@
 		"points": 5
 	},
 	{
+		"name": "A reliable Friend",
+		"grade": "1",
+		"secret": false,
+		"points": 1
+	},
+	{
 		"name": "Afraid of no Ghost!",
 		"grade": "1",
 		"secret": false,
@@ -352,6 +358,12 @@
 		"grade": "1",
 		"secret": false,
 		"points": 2
+	},
+	{
+		"name": "Castle Crasher",
+		"grade": "1",
+		"secret": true,
+		"points": 1
 	},
 	{
 		"name": "Castlemania",
@@ -2685,6 +2697,12 @@
 		"name": "Spore Hunter",
 		"grade": "1",
 		"secret": false,
+		"points": 1
+	},
+	{
+		"name": "Stagmeister",
+		"grade": "1",
+		"secret": true,
 		"points": 1
 	},
 	{
