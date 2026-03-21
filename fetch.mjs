@@ -16,6 +16,7 @@ const extractJson = async (url) => {
 };
 
 for (const [url, slug] of urlsToSlugs) {
+	console.log(url);
 	const data = await extractJson(url);
 	await writeJsonFile(`./data/${slug}-raw.json`, data);
 }
