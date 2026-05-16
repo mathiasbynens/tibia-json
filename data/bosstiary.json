@@ -240,7 +240,7 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
-		"name": "Neferi The Spy",
+		"name": "Neferi the Spy",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -720,6 +720,10 @@
 		"bosstiaryClass": "Bane"
 	},
 	{
+		"name": "Overseer Osverger",
+		"bosstiaryClass": "Bane"
+	},
+	{
 		"name": "Preceptor Lazare",
 		"bosstiaryClass": "Bane"
 	},
@@ -937,14 +941,6 @@
 	},
 	{
 		"name": "Goshnar's Megalomania",
-		"bosstiaryClass": "Nemesis"
-	},
-	{
-		"name": "Goshnar's Megalomania (Annihilation)",
-		"bosstiaryClass": "Nemesis"
-	},
-	{
-		"name": "Goshnar's Megalomania (Vulnerable)",
 		"bosstiaryClass": "Nemesis"
 	},
 	{
