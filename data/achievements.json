@@ -3291,7 +3291,7 @@
 		"name": "Workhorse",
 		"grade": "2",
 		"secret": false,
-		"points": 0
+		"points": 5
 	},
 	{
 		"name": "Worm Whacker",
