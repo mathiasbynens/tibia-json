@@ -66,6 +66,12 @@
 		"points": 2
 	},
 	{
+		"name": "Amati's Echo",
+		"grade": "2",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Ancient Splendor",
 		"grade": "1",
 		"secret": false,
@@ -724,6 +730,24 @@
 		"grade": "1",
 		"secret": false,
 		"points": 1
+	},
+	{
+		"name": "Echo Hunter",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
+		"name": "Echo Initiate",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
+		"name": "Echo Walker",
+		"grade": "2",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Efreet Ally",
@@ -1842,6 +1866,12 @@
 		"points": 3
 	},
 	{
+		"name": "Mimic",
+		"grade": "1",
+		"secret": true,
+		"points": 1
+	},
+	{
 		"name": "Mind the Dog!",
 		"grade": "1",
 		"secret": false,
@@ -2256,6 +2286,12 @@
 		"points": 1
 	},
 	{
+		"name": "Radiant Nimbus",
+		"grade": "1",
+		"secret": false,
+		"points": 0
+	},
+	{
 		"name": "Raider in the Dark",
 		"grade": "2",
 		"secret": false,
@@ -2530,6 +2566,12 @@
 		"grade": "1",
 		"secret": true,
 		"points": 1
+	},
+	{
+		"name": "Six Steps Ahead",
+		"grade": "1",
+		"secret": false,
+		"points": 0
 	},
 	{
 		"name": "Skilled Hunter",
