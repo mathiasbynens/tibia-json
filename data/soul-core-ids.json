@@ -3250,5 +3250,89 @@
 	{
 		"name": "infernoid spiritual soul core",
 		"id": "53155"
+	},
+	{
+		"name": "winged jaracal soul core",
+		"id": "54587"
+	},
+	{
+		"name": "iceplume strider soul core",
+		"id": "54588"
+	},
+	{
+		"name": "silverfrost sentinel soul core",
+		"id": "54589"
+	},
+	{
+		"name": "true feverbloom asura soul core",
+		"id": "54590"
+	},
+	{
+		"name": "radiant warden soul core",
+		"id": "54591"
+	},
+	{
+		"name": "devoted radiant warden soul core",
+		"id": "54592"
+	},
+	{
+		"name": "radiant paragon soul core",
+		"id": "54593"
+	},
+	{
+		"name": "devoted radiant paragon soul core",
+		"id": "54594"
+	},
+	{
+		"name": "radiant acolyte soul core",
+		"id": "54595"
+	},
+	{
+		"name": "devoted radiant acolyte soul core",
+		"id": "54596"
+	},
+	{
+		"name": "radiant templar soul core",
+		"id": "54597"
+	},
+	{
+		"name": "devoted radiant templar soul core",
+		"id": "54598"
+	},
+	{
+		"name": "radiant inquisitor soul core",
+		"id": "54599"
+	},
+	{
+		"name": "devoted radiant inquisitor soul core",
+		"id": "54600"
+	},
+	{
+		"name": "radiant zealot soul core",
+		"id": "54601"
+	},
+	{
+		"name": "devoted radiant zealot soul core",
+		"id": "54602"
+	},
+	{
+		"name": "moonspawn blightspitter soul core",
+		"id": "54603"
+	},
+	{
+		"name": "moonspawn oozecrown soul core",
+		"id": "54604"
+	},
+	{
+		"name": "jaracal soul core",
+		"id": "54630"
+	},
+	{
+		"name": "moonstone excavator soul core",
+		"id": "54631"
+	},
+	{
+		"name": "moonstone overseer soul core",
+		"id": "54632"
 	}
 ]

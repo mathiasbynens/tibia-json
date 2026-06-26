@@ -212,6 +212,10 @@
 		"bosstiaryClass": "Archfoe"
 	},
 	{
+		"name": "Maior Domus",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
 		"name": "Mawhawk",
 		"bosstiaryClass": "Archfoe"
 	},
@@ -229,6 +233,10 @@
 	},
 	{
 		"name": "Melting Frozen Horror",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "Mimar Haffar",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -389,6 +397,10 @@
 	},
 	{
 		"name": "The Moonlight Aster",
+		"bosstiaryClass": "Archfoe"
+	},
+	{
+		"name": "The Moonsnow Magnolia",
 		"bosstiaryClass": "Archfoe"
 	},
 	{
@@ -736,6 +748,10 @@
 		"bosstiaryClass": "Bane"
 	},
 	{
+		"name": "Rakesh Moonfang",
+		"bosstiaryClass": "Bane"
+	},
+	{
 		"name": "Rotspit",
 		"bosstiaryClass": "Bane"
 	},
@@ -1061,6 +1077,10 @@
 	},
 	{
 		"name": "Orshabaal",
+		"bosstiaryClass": "Nemesis"
+	},
+	{
+		"name": "Phosphorus",
 		"bosstiaryClass": "Nemesis"
 	},
 	{
